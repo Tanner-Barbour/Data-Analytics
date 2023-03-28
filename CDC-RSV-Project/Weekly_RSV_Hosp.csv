@@ -1,0 +1,2001 @@
+,state,season,mmwr_week,age_category,sex,race,rate
+0,Entire Network (RSV-NET),2014-2015,Overall,Overall,Overall,Overall,4.4
+1,Entire Network (RSV-NET),2015-2016,Overall,Overall,Overall,Overall,6.7
+2,Entire Network (RSV-NET),2016-2017,Overall,Overall,Overall,Overall,8.5
+3,Entire Network (RSV-NET),2017-2018,Overall,Overall,Overall,Overall,8.6
+4,Entire Network (RSV-NET),2018-2019,Overall,Overall,Overall,Overall,24.3
+5,Entire Network (RSV-NET),2019-2020,Overall,Overall,Overall,Overall,30.6
+6,Entire Network (RSV-NET),2020-2021,Overall,Overall,Overall,Overall,12.9
+7,Entire Network (RSV-NET),2021-2022,Overall,Overall,Overall,Overall,28.3
+8,Entire Network (RSV-NET),2022-2023,Overall,Overall,Overall,Overall,49.8
+9,Entire Network (RSV-NET),2014-2015,Overall,Overall,Overall,"A/PI, non-Hispanic",0.5
+10,Entire Network (RSV-NET),2014-2015,Overall,Overall,Overall,"AI/AN, non-Hispanic",1.8
+11,Entire Network (RSV-NET),2014-2015,Overall,Overall,Overall,"Black, non-Hispanic",5
+12,Entire Network (RSV-NET),2014-2015,Overall,Overall,Overall,Hispanic,0.9
+13,Entire Network (RSV-NET),2014-2015,Overall,Overall,Overall,"White, non-Hispanic",3.3
+14,Entire Network (RSV-NET),2015-2016,Overall,Overall,Overall,"A/PI, non-Hispanic",2.5
+15,Entire Network (RSV-NET),2015-2016,Overall,Overall,Overall,"AI/AN, non-Hispanic",7
+16,Entire Network (RSV-NET),2015-2016,Overall,Overall,Overall,"Black, non-Hispanic",7.4
+17,Entire Network (RSV-NET),2015-2016,Overall,Overall,Overall,Hispanic,3.4
+18,Entire Network (RSV-NET),2015-2016,Overall,Overall,Overall,"White, non-Hispanic",5.6
+19,Entire Network (RSV-NET),2016-2017,Overall,Overall,Overall,"A/PI, non-Hispanic",6.8
+20,Entire Network (RSV-NET),2016-2017,Overall,Overall,Overall,"AI/AN, non-Hispanic",3.8
+21,Entire Network (RSV-NET),2016-2017,Overall,Overall,Overall,"Black, non-Hispanic",8.3
+22,Entire Network (RSV-NET),2016-2017,Overall,Overall,Overall,Hispanic,3.8
+23,Entire Network (RSV-NET),2016-2017,Overall,Overall,Overall,"White, non-Hispanic",9.4
+24,Entire Network (RSV-NET),2017-2018,Overall,Overall,Overall,"A/PI, non-Hispanic",7.2
+25,Entire Network (RSV-NET),2017-2018,Overall,Overall,Overall,"AI/AN, non-Hispanic",14
+26,Entire Network (RSV-NET),2017-2018,Overall,Overall,Overall,"Black, non-Hispanic",7.8
+27,Entire Network (RSV-NET),2017-2018,Overall,Overall,Overall,Hispanic,4.3
+28,Entire Network (RSV-NET),2017-2018,Overall,Overall,Overall,"White, non-Hispanic",9.1
+29,Entire Network (RSV-NET),2018-2019,Overall,Overall,Overall,"A/PI, non-Hispanic",16.5
+30,Entire Network (RSV-NET),2018-2019,Overall,Overall,Overall,"AI/AN, non-Hispanic",37.1
+31,Entire Network (RSV-NET),2018-2019,Overall,Overall,Overall,"Black, non-Hispanic",27.4
+32,Entire Network (RSV-NET),2018-2019,Overall,Overall,Overall,Hispanic,28.6
+33,Entire Network (RSV-NET),2018-2019,Overall,Overall,Overall,"White, non-Hispanic",20.6
+34,Entire Network (RSV-NET),2019-2020,Overall,Overall,Overall,"A/PI, non-Hispanic",17
+35,Entire Network (RSV-NET),2019-2020,Overall,Overall,Overall,"AI/AN, non-Hispanic",53.5
+36,Entire Network (RSV-NET),2019-2020,Overall,Overall,Overall,"Black, non-Hispanic",32.2
+37,Entire Network (RSV-NET),2019-2020,Overall,Overall,Overall,Hispanic,37.9
+38,Entire Network (RSV-NET),2019-2020,Overall,Overall,Overall,"White, non-Hispanic",25.8
+39,Entire Network (RSV-NET),2020-2021,Overall,Overall,Overall,"A/PI, non-Hispanic",4.7
+40,Entire Network (RSV-NET),2020-2021,Overall,Overall,Overall,"AI/AN, non-Hispanic",6
+41,Entire Network (RSV-NET),2020-2021,Overall,Overall,Overall,"Black, non-Hispanic",20.6
+42,Entire Network (RSV-NET),2020-2021,Overall,Overall,Overall,Hispanic,16.3
+43,Entire Network (RSV-NET),2020-2021,Overall,Overall,Overall,"White, non-Hispanic",9.6
+44,Entire Network (RSV-NET),2021-2022,Overall,Overall,Overall,"A/PI, non-Hispanic",16.2
+45,Entire Network (RSV-NET),2021-2022,Overall,Overall,Overall,"AI/AN, non-Hispanic",31.4
+46,Entire Network (RSV-NET),2021-2022,Overall,Overall,Overall,"Black, non-Hispanic",31.4
+47,Entire Network (RSV-NET),2021-2022,Overall,Overall,Overall,Hispanic,37.7
+48,Entire Network (RSV-NET),2021-2022,Overall,Overall,Overall,"White, non-Hispanic",23.2
+49,Entire Network (RSV-NET),2022-2023,Overall,Overall,Overall,"A/PI, non-Hispanic",27.8
+50,Entire Network (RSV-NET),2022-2023,Overall,Overall,Overall,"AI/AN, non-Hispanic",55.7
+51,Entire Network (RSV-NET),2022-2023,Overall,Overall,Overall,"Black, non-Hispanic",34.5
+52,Entire Network (RSV-NET),2022-2023,Overall,Overall,Overall,Hispanic,60.2
+53,Entire Network (RSV-NET),2022-2023,Overall,Overall,Overall,"White, non-Hispanic",34.9
+54,Entire Network (RSV-NET),2014-2015,Overall,Overall,Female,Overall,5.2
+55,Entire Network (RSV-NET),2014-2015,Overall,Overall,Male,Overall,3.5
+56,Entire Network (RSV-NET),2015-2016,Overall,Overall,Female,Overall,8
+57,Entire Network (RSV-NET),2015-2016,Overall,Overall,Male,Overall,5.4
+58,Entire Network (RSV-NET),2016-2017,Overall,Overall,Female,Overall,9.3
+59,Entire Network (RSV-NET),2016-2017,Overall,Overall,Male,Overall,7.6
+60,Entire Network (RSV-NET),2017-2018,Overall,Overall,Female,Overall,9.9
+61,Entire Network (RSV-NET),2017-2018,Overall,Overall,Male,Overall,7.1
+62,Entire Network (RSV-NET),2018-2019,Overall,Overall,Female,Overall,23.6
+63,Entire Network (RSV-NET),2018-2019,Overall,Overall,Male,Overall,25
+64,Entire Network (RSV-NET),2019-2020,Overall,Overall,Female,Overall,29.5
+65,Entire Network (RSV-NET),2019-2020,Overall,Overall,Male,Overall,31.7
+66,Entire Network (RSV-NET),2020-2021,Overall,Overall,Female,Overall,12
+67,Entire Network (RSV-NET),2020-2021,Overall,Overall,Male,Overall,13.8
+68,Entire Network (RSV-NET),2021-2022,Overall,Overall,Female,Overall,27.6
+69,Entire Network (RSV-NET),2021-2022,Overall,Overall,Male,Overall,29.1
+70,Entire Network (RSV-NET),2022-2023,Overall,Overall,Female,Overall,48
+71,Entire Network (RSV-NET),2022-2023,Overall,Overall,Male,Overall,51.7
+72,Entire Network (RSV-NET),2014-2015,Overall,Overall,Female,"A/PI, non-Hispanic",0.5
+73,Entire Network (RSV-NET),2014-2015,Overall,Overall,Female,"AI/AN, non-Hispanic",3.4
+74,Entire Network (RSV-NET),2014-2015,Overall,Overall,Female,"Black, non-Hispanic",5.4
+75,Entire Network (RSV-NET),2014-2015,Overall,Overall,Female,Hispanic,1.1
+76,Entire Network (RSV-NET),2014-2015,Overall,Overall,Female,"White, non-Hispanic",3.9
+77,Entire Network (RSV-NET),2014-2015,Overall,Overall,Male,"A/PI, non-Hispanic",0.4
+78,Entire Network (RSV-NET),2014-2015,Overall,Overall,Male,"AI/AN, non-Hispanic",0
+79,Entire Network (RSV-NET),2014-2015,Overall,Overall,Male,"Black, non-Hispanic",4.6
+80,Entire Network (RSV-NET),2014-2015,Overall,Overall,Male,Hispanic,0.7
+81,Entire Network (RSV-NET),2014-2015,Overall,Overall,Male,"White, non-Hispanic",2.7
+82,Entire Network (RSV-NET),2015-2016,Overall,Overall,Female,"A/PI, non-Hispanic",2.4
+83,Entire Network (RSV-NET),2015-2016,Overall,Overall,Female,"AI/AN, non-Hispanic",10.1
+84,Entire Network (RSV-NET),2015-2016,Overall,Overall,Female,"Black, non-Hispanic",8.9
+85,Entire Network (RSV-NET),2015-2016,Overall,Overall,Female,Hispanic,3.9
+86,Entire Network (RSV-NET),2015-2016,Overall,Overall,Female,"White, non-Hispanic",7
+87,Entire Network (RSV-NET),2015-2016,Overall,Overall,Male,"A/PI, non-Hispanic",2.7
+88,Entire Network (RSV-NET),2015-2016,Overall,Overall,Male,"AI/AN, non-Hispanic",3.7
+89,Entire Network (RSV-NET),2015-2016,Overall,Overall,Male,"Black, non-Hispanic",5.6
+90,Entire Network (RSV-NET),2015-2016,Overall,Overall,Male,Hispanic,3
+91,Entire Network (RSV-NET),2015-2016,Overall,Overall,Male,"White, non-Hispanic",4.2
+92,Entire Network (RSV-NET),2016-2017,Overall,Overall,Female,"A/PI, non-Hispanic",7.4
+93,Entire Network (RSV-NET),2016-2017,Overall,Overall,Female,"AI/AN, non-Hispanic",4.7
+94,Entire Network (RSV-NET),2016-2017,Overall,Overall,Female,"Black, non-Hispanic",9.9
+95,Entire Network (RSV-NET),2016-2017,Overall,Overall,Female,Hispanic,3.2
+96,Entire Network (RSV-NET),2016-2017,Overall,Overall,Female,"White, non-Hispanic",10.2
+97,Entire Network (RSV-NET),2016-2017,Overall,Overall,Male,"A/PI, non-Hispanic",6.2
+98,Entire Network (RSV-NET),2016-2017,Overall,Overall,Male,"AI/AN, non-Hispanic",2.7
+99,Entire Network (RSV-NET),2016-2017,Overall,Overall,Male,"Black, non-Hispanic",6.4
+100,Entire Network (RSV-NET),2016-2017,Overall,Overall,Male,Hispanic,4.4
+101,Entire Network (RSV-NET),2016-2017,Overall,Overall,Male,"White, non-Hispanic",8.6
+102,Entire Network (RSV-NET),2017-2018,Overall,Overall,Female,"A/PI, non-Hispanic",7.7
+103,Entire Network (RSV-NET),2017-2018,Overall,Overall,Female,"AI/AN, non-Hispanic",15.4
+104,Entire Network (RSV-NET),2017-2018,Overall,Overall,Female,"Black, non-Hispanic",9.1
+105,Entire Network (RSV-NET),2017-2018,Overall,Overall,Female,Hispanic,5.2
+106,Entire Network (RSV-NET),2017-2018,Overall,Overall,Female,"White, non-Hispanic",10.6
+107,Entire Network (RSV-NET),2017-2018,Overall,Overall,Male,"A/PI, non-Hispanic",6.7
+108,Entire Network (RSV-NET),2017-2018,Overall,Overall,Male,"AI/AN, non-Hispanic",12.6
+109,Entire Network (RSV-NET),2017-2018,Overall,Overall,Male,"Black, non-Hispanic",6.2
+110,Entire Network (RSV-NET),2017-2018,Overall,Overall,Male,Hispanic,3.4
+111,Entire Network (RSV-NET),2017-2018,Overall,Overall,Male,"White, non-Hispanic",7.5
+112,Entire Network (RSV-NET),2018-2019,Overall,Overall,Female,"A/PI, non-Hispanic",15.6
+113,Entire Network (RSV-NET),2018-2019,Overall,Overall,Female,"AI/AN, non-Hispanic",36.8
+114,Entire Network (RSV-NET),2018-2019,Overall,Overall,Female,"Black, non-Hispanic",25.3
+115,Entire Network (RSV-NET),2018-2019,Overall,Overall,Female,Hispanic,28
+116,Entire Network (RSV-NET),2018-2019,Overall,Overall,Female,"White, non-Hispanic",20.5
+117,Entire Network (RSV-NET),2018-2019,Overall,Overall,Male,"A/PI, non-Hispanic",17.4
+118,Entire Network (RSV-NET),2018-2019,Overall,Overall,Male,"AI/AN, non-Hispanic",37.5
+119,Entire Network (RSV-NET),2018-2019,Overall,Overall,Male,"Black, non-Hispanic",29.7
+120,Entire Network (RSV-NET),2018-2019,Overall,Overall,Male,Hispanic,29.2
+121,Entire Network (RSV-NET),2018-2019,Overall,Overall,Male,"White, non-Hispanic",20.6
+122,Entire Network (RSV-NET),2019-2020,Overall,Overall,Female,"A/PI, non-Hispanic",15.5
+123,Entire Network (RSV-NET),2019-2020,Overall,Overall,Female,"AI/AN, non-Hispanic",52.4
+124,Entire Network (RSV-NET),2019-2020,Overall,Overall,Female,"Black, non-Hispanic",30
+125,Entire Network (RSV-NET),2019-2020,Overall,Overall,Female,Hispanic,35.4
+126,Entire Network (RSV-NET),2019-2020,Overall,Overall,Female,"White, non-Hispanic",25.8
+127,Entire Network (RSV-NET),2019-2020,Overall,Overall,Male,"A/PI, non-Hispanic",18.6
+128,Entire Network (RSV-NET),2019-2020,Overall,Overall,Male,"AI/AN, non-Hispanic",54.7
+129,Entire Network (RSV-NET),2019-2020,Overall,Overall,Male,"Black, non-Hispanic",34.6
+130,Entire Network (RSV-NET),2019-2020,Overall,Overall,Male,Hispanic,40.4
+131,Entire Network (RSV-NET),2019-2020,Overall,Overall,Male,"White, non-Hispanic",25.8
+132,Entire Network (RSV-NET),2020-2021,Overall,Overall,Female,"A/PI, non-Hispanic",4.1
+133,Entire Network (RSV-NET),2020-2021,Overall,Overall,Female,"AI/AN, non-Hispanic",7.7
+134,Entire Network (RSV-NET),2020-2021,Overall,Overall,Female,"Black, non-Hispanic",18.9
+135,Entire Network (RSV-NET),2020-2021,Overall,Overall,Female,Hispanic,16
+136,Entire Network (RSV-NET),2020-2021,Overall,Overall,Female,"White, non-Hispanic",8.9
+137,Entire Network (RSV-NET),2020-2021,Overall,Overall,Male,"A/PI, non-Hispanic",5.4
+138,Entire Network (RSV-NET),2020-2021,Overall,Overall,Male,"AI/AN, non-Hispanic",4.2
+139,Entire Network (RSV-NET),2020-2021,Overall,Overall,Male,"Black, non-Hispanic",22.6
+140,Entire Network (RSV-NET),2020-2021,Overall,Overall,Male,Hispanic,16.7
+141,Entire Network (RSV-NET),2020-2021,Overall,Overall,Male,"White, non-Hispanic",10.2
+142,Entire Network (RSV-NET),2021-2022,Overall,Overall,Female,"A/PI, non-Hispanic",16.4
+143,Entire Network (RSV-NET),2021-2022,Overall,Overall,Female,"AI/AN, non-Hispanic",26.8
+144,Entire Network (RSV-NET),2021-2022,Overall,Overall,Female,"Black, non-Hispanic",30.2
+145,Entire Network (RSV-NET),2021-2022,Overall,Overall,Female,Hispanic,37.3
+146,Entire Network (RSV-NET),2021-2022,Overall,Overall,Female,"White, non-Hispanic",22.8
+147,Entire Network (RSV-NET),2021-2022,Overall,Overall,Male,"A/PI, non-Hispanic",16
+148,Entire Network (RSV-NET),2021-2022,Overall,Overall,Male,"AI/AN, non-Hispanic",36.4
+149,Entire Network (RSV-NET),2021-2022,Overall,Overall,Male,"Black, non-Hispanic",32.8
+150,Entire Network (RSV-NET),2021-2022,Overall,Overall,Male,Hispanic,38.1
+151,Entire Network (RSV-NET),2021-2022,Overall,Overall,Male,"White, non-Hispanic",23.7
+152,Entire Network (RSV-NET),2022-2023,Overall,Overall,Female,"A/PI, non-Hispanic",26.7
+153,Entire Network (RSV-NET),2022-2023,Overall,Overall,Female,"AI/AN, non-Hispanic",43.7
+154,Entire Network (RSV-NET),2022-2023,Overall,Overall,Female,"Black, non-Hispanic",33.4
+155,Entire Network (RSV-NET),2022-2023,Overall,Overall,Female,Hispanic,59
+156,Entire Network (RSV-NET),2022-2023,Overall,Overall,Female,"White, non-Hispanic",33.6
+157,Entire Network (RSV-NET),2022-2023,Overall,Overall,Male,"A/PI, non-Hispanic",29
+158,Entire Network (RSV-NET),2022-2023,Overall,Overall,Male,"AI/AN, non-Hispanic",68.8
+159,Entire Network (RSV-NET),2022-2023,Overall,Overall,Male,"Black, non-Hispanic",35.8
+160,Entire Network (RSV-NET),2022-2023,Overall,Overall,Male,Hispanic,61.4
+161,Entire Network (RSV-NET),2022-2023,Overall,Overall,Male,"White, non-Hispanic",36.3
+162,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Overall,Overall,0.8
+163,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Overall,Overall,0.7
+164,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Overall,Overall,2.1
+165,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Overall,Overall,9.9
+166,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Overall,Overall,18.7
+167,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Overall,Overall,33.4
+168,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Overall,Overall,4.4
+169,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Overall,Overall,1.2
+170,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Overall,Overall,4.4
+171,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Overall,Overall,15.4
+172,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Overall,Overall,1.6
+173,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Overall,Overall,1.9
+174,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Overall,Overall,2.4
+175,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Overall,Overall,14.4
+176,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Overall,Overall,26.8
+177,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Overall,Overall,54.9
+178,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Overall,Overall,6.7
+179,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Overall,Overall,1.9
+180,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Overall,Overall,6.7
+181,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Overall,Overall,23
+182,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Overall,Overall,1.5
+183,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Overall,Overall,1.7
+184,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Overall,Overall,2.1
+185,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Overall,Overall,16.8
+186,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Overall,Overall,37.3
+187,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Overall,Overall,78.6
+188,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Overall,Overall,8.5
+189,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Overall,Overall,1.7
+190,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Overall,Overall,8.8
+191,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Overall,Overall,30.2
+192,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Overall,Overall,1.4
+193,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Overall,Overall,1.8
+194,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Overall,Overall,3.6
+195,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Overall,Overall,22.2
+196,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Overall,Overall,47.2
+197,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Overall,Overall,98.9
+198,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Overall,Overall,11
+199,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Overall,Overall,2.2
+200,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Overall,Overall,10.9
+201,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Overall,Overall,38.6
+202,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Overall,Overall,1143.3
+203,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Overall,Overall,259.3
+204,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Overall,Overall,2.2
+205,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Overall,Overall,1.6
+206,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Overall,Overall,70.8
+207,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Overall,Overall,2.5
+208,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Overall,Overall,3.8
+209,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Overall,Overall,8.3
+210,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Overall,Overall,436.1
+211,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Overall,Overall,22.8
+212,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Overall,Overall,46.3
+213,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Overall,Overall,94.6
+214,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Overall,Overall,70.9
+215,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Overall,Overall,248.5
+216,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Overall,Overall,11.1
+217,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Overall,Overall,2.5
+218,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Overall,Overall,5.4
+219,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Overall,Overall,10.4
+220,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Overall,Overall,38
+221,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Overall,Overall,1435.1
+222,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Overall,Overall,334.8
+223,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Overall,Overall,2.1
+224,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Overall,Overall,2.2
+225,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Overall,Overall,100.1
+226,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Overall,Overall,3.1
+227,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Overall,Overall,5.7
+228,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Overall,Overall,10
+229,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Overall,Overall,562.6
+230,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Overall,Overall,26.9
+231,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Overall,Overall,55.3
+232,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Overall,Overall,113.4
+233,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Overall,Overall,90.2
+234,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Overall,Overall,321.9
+235,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Overall,Overall,14
+236,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Overall,Overall,3.5
+237,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Overall,Overall,6.3
+238,Entire Network (RSV-NET),2019-2020,Overall,50-64 years,Overall,Overall,13.5
+239,Entire Network (RSV-NET),2019-2020,Overall,65+ years,Overall,Overall,45.1
+240,Entire Network (RSV-NET),2020-2021,Overall,----0-<6 months,Overall,Overall,725.4
+241,Entire Network (RSV-NET),2020-2021,Overall,----1-<2 years,Overall,Overall,204.4
+242,Entire Network (RSV-NET),2020-2021,Overall,----12-17 years,Overall,Overall,1.5
+243,Entire Network (RSV-NET),2020-2021,Overall,----18-29 years,Overall,Overall,1.3
+244,Entire Network (RSV-NET),2020-2021,Overall,----2-4 years,Overall,Overall,63.4
+245,Entire Network (RSV-NET),2020-2021,Overall,----30-39 years,Overall,Overall,1.7
+246,Entire Network (RSV-NET),2020-2021,Overall,----40-49 years,Overall,Overall,1.2
+247,Entire Network (RSV-NET),2020-2021,Overall,----5-11 years,Overall,Overall,4
+248,Entire Network (RSV-NET),2020-2021,Overall,----6-<12 months,Overall,Overall,284
+249,Entire Network (RSV-NET),2020-2021,Overall,----65-74 years,Overall,Overall,5.7
+250,Entire Network (RSV-NET),2020-2021,Overall,----75-84 years,Overall,Overall,6.9
+251,Entire Network (RSV-NET),2020-2021,Overall,----85+ years,Overall,Overall,11
+252,Entire Network (RSV-NET),2020-2021,Overall,0-17 (Children),Overall,Overall,49.3
+253,Entire Network (RSV-NET),2020-2021,Overall,0-4 years,Overall,Overall,177.3
+254,Entire Network (RSV-NET),2020-2021,Overall,18+ (Adults),Overall,Overall,2.8
+255,Entire Network (RSV-NET),2020-2021,Overall,18-49 years,Overall,Overall,1.4
+256,Entire Network (RSV-NET),2020-2021,Overall,5-17 years,Overall,Overall,2.8
+257,Entire Network (RSV-NET),2020-2021,Overall,50-64 years,Overall,Overall,2.8
+258,Entire Network (RSV-NET),2020-2021,Overall,65+ years,Overall,Overall,6.7
+259,Entire Network (RSV-NET),2021-2022,Overall,----0-<6 months,Overall,Overall,1287.2
+260,Entire Network (RSV-NET),2021-2022,Overall,----1-<2 years,Overall,Overall,323.9
+261,Entire Network (RSV-NET),2021-2022,Overall,----12-17 years,Overall,Overall,3.1
+262,Entire Network (RSV-NET),2021-2022,Overall,----18-29 years,Overall,Overall,3.3
+263,Entire Network (RSV-NET),2021-2022,Overall,----2-4 years,Overall,Overall,122.1
+264,Entire Network (RSV-NET),2021-2022,Overall,----30-39 years,Overall,Overall,4.4
+265,Entire Network (RSV-NET),2021-2022,Overall,----40-49 years,Overall,Overall,4.5
+266,Entire Network (RSV-NET),2021-2022,Overall,----5-11 years,Overall,Overall,14.2
+267,Entire Network (RSV-NET),2021-2022,Overall,----6-<12 months,Overall,Overall,517.2
+268,Entire Network (RSV-NET),2021-2022,Overall,----65-74 years,Overall,Overall,20.3
+269,Entire Network (RSV-NET),2021-2022,Overall,----75-84 years,Overall,Overall,43.3
+270,Entire Network (RSV-NET),2021-2022,Overall,----85+ years,Overall,Overall,63.8
+271,Entire Network (RSV-NET),2021-2022,Overall,0-17 (Children),Overall,Overall,90.1
+272,Entire Network (RSV-NET),2021-2022,Overall,0-4 years,Overall,Overall,314.2
+273,Entire Network (RSV-NET),2021-2022,Overall,18+ (Adults),Overall,Overall,11.1
+274,Entire Network (RSV-NET),2021-2022,Overall,18-49 years,Overall,Overall,4
+275,Entire Network (RSV-NET),2021-2022,Overall,5-17 years,Overall,Overall,9
+276,Entire Network (RSV-NET),2021-2022,Overall,50-64 years,Overall,Overall,11.1
+277,Entire Network (RSV-NET),2021-2022,Overall,65+ years,Overall,Overall,32
+278,Entire Network (RSV-NET),2022-2023,Overall,----0-<6 months,Overall,Overall,2042.2
+279,Entire Network (RSV-NET),2022-2023,Overall,----1-<2 years,Overall,Overall,550.6
+280,Entire Network (RSV-NET),2022-2023,Overall,----12-17 years,Overall,Overall,6.2
+281,Entire Network (RSV-NET),2022-2023,Overall,----18-29 years,Overall,Overall,4.7
+282,Entire Network (RSV-NET),2022-2023,Overall,----2-4 years,Overall,Overall,243.2
+283,Entire Network (RSV-NET),2022-2023,Overall,----30-39 years,Overall,Overall,6.5
+284,Entire Network (RSV-NET),2022-2023,Overall,----40-49 years,Overall,Overall,7.3
+285,Entire Network (RSV-NET),2022-2023,Overall,----5-11 years,Overall,Overall,30.6
+286,Entire Network (RSV-NET),2022-2023,Overall,----6-<12 months,Overall,Overall,877.9
+287,Entire Network (RSV-NET),2022-2023,Overall,----65-74 years,Overall,Overall,40.1
+288,Entire Network (RSV-NET),2022-2023,Overall,----75-84 years,Overall,Overall,81.8
+289,Entire Network (RSV-NET),2022-2023,Overall,----85+ years,Overall,Overall,141.9
+290,Entire Network (RSV-NET),2022-2023,Overall,0-17 (Children),Overall,Overall,157.9
+291,Entire Network (RSV-NET),2022-2023,Overall,0-4 years,Overall,Overall,541.7
+292,Entire Network (RSV-NET),2022-2023,Overall,18+ (Adults),Overall,Overall,19.9
+293,Entire Network (RSV-NET),2022-2023,Overall,18-49 years,Overall,Overall,6
+294,Entire Network (RSV-NET),2022-2023,Overall,5-17 years,Overall,Overall,19.2
+295,Entire Network (RSV-NET),2022-2023,Overall,50-64 years,Overall,Overall,17.7
+296,Entire Network (RSV-NET),2022-2023,Overall,65+ years,Overall,Overall,63.8
+297,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Overall,"A/PI, non-Hispanic",0
+298,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Overall,"AI/AN, non-Hispanic",0
+299,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Overall,"Black, non-Hispanic",2.2
+300,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Overall,Hispanic,0.3
+301,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Overall,"White, non-Hispanic",0.3
+302,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Overall,"A/PI, non-Hispanic",0.3
+303,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Overall,"AI/AN, non-Hispanic",0
+304,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Overall,"Black, non-Hispanic",1.2
+305,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Overall,Hispanic,0
+306,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Overall,"White, non-Hispanic",0.6
+307,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Overall,"A/PI, non-Hispanic",0.3
+308,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Overall,"AI/AN, non-Hispanic",0
+309,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Overall,"Black, non-Hispanic",4.9
+310,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Overall,Hispanic,0.4
+311,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Overall,"White, non-Hispanic",1.1
+312,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Overall,"A/PI, non-Hispanic",0
+313,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Overall,"AI/AN, non-Hispanic",0
+314,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Overall,"Black, non-Hispanic",8.2
+315,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Overall,Hispanic,5.3
+316,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Overall,"White, non-Hispanic",6.9
+317,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Overall,"A/PI, non-Hispanic",3.2
+318,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Overall,"AI/AN, non-Hispanic",0
+319,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Overall,"Black, non-Hispanic",18.8
+320,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Overall,Hispanic,3.9
+321,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Overall,"White, non-Hispanic",13.7
+322,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Overall,"A/PI, non-Hispanic",11.5
+323,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Overall,"AI/AN, non-Hispanic",0
+324,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Overall,"Black, non-Hispanic",15.9
+325,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Overall,Hispanic,0
+326,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Overall,"White, non-Hispanic",22.8
+327,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Overall,"A/PI, non-Hispanic",0.5
+328,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Overall,"AI/AN, non-Hispanic",1.8
+329,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Overall,"Black, non-Hispanic",5
+330,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Overall,Hispanic,0.9
+331,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Overall,"White, non-Hispanic",3.3
+332,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Overall,"A/PI, non-Hispanic",0.2
+333,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Overall,"AI/AN, non-Hispanic",0
+334,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Overall,"Black, non-Hispanic",2.7
+335,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Overall,Hispanic,0.2
+336,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Overall,"White, non-Hispanic",0.6
+337,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Overall,"A/PI, non-Hispanic",0
+338,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Overall,"AI/AN, non-Hispanic",6.9
+339,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Overall,"Black, non-Hispanic",7.9
+340,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Overall,Hispanic,2.7
+341,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Overall,"White, non-Hispanic",2.6
+342,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Overall,"A/PI, non-Hispanic",2.3
+343,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Overall,"AI/AN, non-Hispanic",0
+344,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Overall,"Black, non-Hispanic",11.8
+345,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Overall,Hispanic,4.3
+346,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Overall,"White, non-Hispanic",11
+347,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Overall,"A/PI, non-Hispanic",0
+348,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Overall,"AI/AN, non-Hispanic",7
+349,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Overall,"Black, non-Hispanic",2.7
+350,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Overall,Hispanic,1
+351,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Overall,"White, non-Hispanic",1
+352,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Overall,"A/PI, non-Hispanic",0.6
+353,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Overall,"AI/AN, non-Hispanic",0
+354,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Overall,"Black, non-Hispanic",3.6
+355,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Overall,Hispanic,1.4
+356,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Overall,"White, non-Hispanic",1.1
+357,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Overall,"A/PI, non-Hispanic",0.7
+358,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Overall,"AI/AN, non-Hispanic",0
+359,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Overall,"Black, non-Hispanic",4.7
+360,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Overall,Hispanic,2.5
+361,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Overall,"White, non-Hispanic",1.6
+362,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Overall,"A/PI, non-Hispanic",6.8
+363,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Overall,"AI/AN, non-Hispanic",0
+364,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Overall,"Black, non-Hispanic",13.6
+365,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Overall,Hispanic,19.6
+366,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Overall,"White, non-Hispanic",10.5
+367,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Overall,"A/PI, non-Hispanic",15.1
+368,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Overall,"AI/AN, non-Hispanic",115.5
+369,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Overall,"Black, non-Hispanic",23.5
+370,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Overall,Hispanic,14.9
+371,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Overall,"White, non-Hispanic",21.1
+372,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Overall,"A/PI, non-Hispanic",46.7
+373,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Overall,"AI/AN, non-Hispanic",0
+374,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Overall,"Black, non-Hispanic",27.7
+375,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Overall,Hispanic,43.7
+376,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Overall,"White, non-Hispanic",46
+377,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Overall,"A/PI, non-Hispanic",2.5
+378,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Overall,"AI/AN, non-Hispanic",7
+379,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Overall,"Black, non-Hispanic",7.4
+380,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Overall,Hispanic,3.4
+381,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Overall,"White, non-Hispanic",5.6
+382,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Overall,"A/PI, non-Hispanic",0.4
+383,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Overall,"AI/AN, non-Hispanic",2.8
+384,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Overall,"Black, non-Hispanic",3.6
+385,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Overall,Hispanic,1.6
+386,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Overall,"White, non-Hispanic",1.2
+387,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Overall,"A/PI, non-Hispanic",1.2
+388,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Overall,"AI/AN, non-Hispanic",6.9
+389,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Overall,"Black, non-Hispanic",12.4
+390,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Overall,Hispanic,4.3
+391,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Overall,"White, non-Hispanic",4.3
+392,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Overall,"A/PI, non-Hispanic",14.1
+393,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Overall,"AI/AN, non-Hispanic",27.4
+394,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Overall,"Black, non-Hispanic",17.5
+395,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Overall,Hispanic,21.1
+396,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Overall,"White, non-Hispanic",18.3
+397,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Overall,"A/PI, non-Hispanic",0.8
+398,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Overall,"AI/AN, non-Hispanic",0
+399,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Overall,"Black, non-Hispanic",3
+400,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Overall,Hispanic,0.9
+401,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Overall,"White, non-Hispanic",1.1
+402,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Overall,"A/PI, non-Hispanic",0.5
+403,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Overall,"AI/AN, non-Hispanic",0
+404,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Overall,"Black, non-Hispanic",2.8
+405,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Overall,Hispanic,1
+406,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Overall,"White, non-Hispanic",1.7
+407,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Overall,"A/PI, non-Hispanic",1.3
+408,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Overall,"AI/AN, non-Hispanic",14.7
+409,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Overall,"Black, non-Hispanic",3
+410,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Overall,Hispanic,1.2
+411,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Overall,"White, non-Hispanic",1.8
+412,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Overall,"A/PI, non-Hispanic",18.2
+413,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Overall,"AI/AN, non-Hispanic",0
+414,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Overall,"Black, non-Hispanic",17.5
+415,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Overall,Hispanic,11.5
+416,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Overall,"White, non-Hispanic",16.1
+417,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Overall,"A/PI, non-Hispanic",38.7
+418,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Overall,"AI/AN, non-Hispanic",0
+419,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Overall,"Black, non-Hispanic",39.3
+420,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Overall,Hispanic,20.9
+421,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Overall,"White, non-Hispanic",37.7
+422,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Overall,"A/PI, non-Hispanic",107
+423,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Overall,"AI/AN, non-Hispanic",0
+424,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Overall,"Black, non-Hispanic",35.4
+425,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Overall,Hispanic,68.7
+426,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Overall,"White, non-Hispanic",80
+427,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Overall,"A/PI, non-Hispanic",6.8
+428,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Overall,"AI/AN, non-Hispanic",3.8
+429,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Overall,"Black, non-Hispanic",8.3
+430,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Overall,Hispanic,3.8
+431,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Overall,"White, non-Hispanic",9.4
+432,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Overall,"A/PI, non-Hispanic",0.8
+433,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Overall,"AI/AN, non-Hispanic",3.9
+434,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Overall,"Black, non-Hispanic",2.9
+435,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Overall,Hispanic,1
+436,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Overall,"White, non-Hispanic",1.5
+437,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Overall,"A/PI, non-Hispanic",5.4
+438,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Overall,"AI/AN, non-Hispanic",5.4
+439,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Overall,"Black, non-Hispanic",13.4
+440,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Overall,Hispanic,7.3
+441,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Overall,"White, non-Hispanic",7.8
+442,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Overall,"A/PI, non-Hispanic",35.1
+443,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Overall,"AI/AN, non-Hispanic",0
+444,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Overall,"Black, non-Hispanic",24.8
+445,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Overall,Hispanic,20.5
+446,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Overall,"White, non-Hispanic",30.6
+447,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Overall,"A/PI, non-Hispanic",1
+448,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Overall,"AI/AN, non-Hispanic",0
+449,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Overall,"Black, non-Hispanic",2
+450,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Overall,Hispanic,0.8
+451,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Overall,"White, non-Hispanic",1.1
+452,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Overall,"A/PI, non-Hispanic",0.8
+453,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Overall,"AI/AN, non-Hispanic",8.4
+454,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Overall,"Black, non-Hispanic",2.4
+455,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Overall,Hispanic,2.1
+456,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Overall,"White, non-Hispanic",1.5
+457,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Overall,"A/PI, non-Hispanic",1.2
+458,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Overall,"AI/AN, non-Hispanic",20.6
+459,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Overall,"Black, non-Hispanic",5.9
+460,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Overall,Hispanic,2.7
+461,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Overall,"White, non-Hispanic",3.3
+462,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Overall,"A/PI, non-Hispanic",17.4
+463,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Overall,"AI/AN, non-Hispanic",29.4
+464,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Overall,"Black, non-Hispanic",25
+465,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Overall,Hispanic,30.1
+466,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Overall,"White, non-Hispanic",19.2
+467,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Overall,"A/PI, non-Hispanic",59.7
+468,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Overall,"AI/AN, non-Hispanic",78.4
+469,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Overall,"Black, non-Hispanic",35.6
+470,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Overall,Hispanic,43.2
+471,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Overall,"White, non-Hispanic",42.6
+472,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Overall,"A/PI, non-Hispanic",174.3
+473,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Overall,"AI/AN, non-Hispanic",79.7
+474,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Overall,"Black, non-Hispanic",61.2
+475,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Overall,Hispanic,97.5
+476,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Overall,"White, non-Hispanic",91.8
+477,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Overall,"A/PI, non-Hispanic",9.1
+478,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Overall,"AI/AN, non-Hispanic",18.2
+479,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Overall,"Black, non-Hispanic",10.4
+480,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Overall,Hispanic,6.4
+481,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Overall,"White, non-Hispanic",11.2
+482,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Overall,"A/PI, non-Hispanic",1
+483,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Overall,"AI/AN, non-Hispanic",8.2
+484,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Overall,"Black, non-Hispanic",3.2
+485,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Overall,Hispanic,1.8
+486,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Overall,"White, non-Hispanic",1.9
+487,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Overall,"A/PI, non-Hispanic",6.2
+488,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Overall,"AI/AN, non-Hispanic",30
+489,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Overall,"Black, non-Hispanic",16.8
+490,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Overall,Hispanic,8.2
+491,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Overall,"White, non-Hispanic",9.2
+492,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Overall,"A/PI, non-Hispanic",48.4
+493,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Overall,"AI/AN, non-Hispanic",45.8
+494,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Overall,"Black, non-Hispanic",31.2
+495,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Overall,Hispanic,40.8
+496,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Overall,"White, non-Hispanic",35.3
+497,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Overall,"A/PI, non-Hispanic",921.9
+498,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Overall,"AI/AN, non-Hispanic",1133.4
+499,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Overall,"Black, non-Hispanic",1184
+500,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Overall,Hispanic,1095.1
+501,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Overall,"White, non-Hispanic",969.3
+502,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Overall,"A/PI, non-Hispanic",270.9
+503,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Overall,"AI/AN, non-Hispanic",562.7
+504,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Overall,"Black, non-Hispanic",268.3
+505,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Overall,Hispanic,281.1
+506,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Overall,"White, non-Hispanic",198.3
+507,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Overall,"A/PI, non-Hispanic",3
+508,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Overall,"AI/AN, non-Hispanic",0
+509,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Overall,"Black, non-Hispanic",3.6
+510,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Overall,Hispanic,2
+511,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Overall,"White, non-Hispanic",1.3
+512,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Overall,"A/PI, non-Hispanic",0.2
+513,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Overall,"AI/AN, non-Hispanic",0
+514,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Overall,"Black, non-Hispanic",2.2
+515,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Overall,Hispanic,2.5
+516,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Overall,"White, non-Hispanic",1.2
+517,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Overall,"A/PI, non-Hispanic",57.5
+518,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Overall,"AI/AN, non-Hispanic",156
+519,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Overall,"Black, non-Hispanic",68.7
+520,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Overall,Hispanic,76.7
+521,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Overall,"White, non-Hispanic",60.5
+522,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Overall,"A/PI, non-Hispanic",1.4
+523,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Overall,"AI/AN, non-Hispanic",4.1
+524,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Overall,"Black, non-Hispanic",4.6
+525,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Overall,Hispanic,2.3
+526,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Overall,"White, non-Hispanic",2
+527,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Overall,"A/PI, non-Hispanic",1
+528,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Overall,"AI/AN, non-Hispanic",15.4
+529,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Overall,"Black, non-Hispanic",6.4
+530,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Overall,Hispanic,3.2
+531,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Overall,"White, non-Hispanic",3.4
+532,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Overall,"A/PI, non-Hispanic",7.1
+533,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Overall,"AI/AN, non-Hispanic",37.4
+534,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Overall,"Black, non-Hispanic",10
+535,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Overall,Hispanic,7.8
+536,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Overall,"White, non-Hispanic",6.9
+537,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Overall,"A/PI, non-Hispanic",383.5
+538,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Overall,"AI/AN, non-Hispanic",721.3
+539,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Overall,"Black, non-Hispanic",466.7
+540,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Overall,Hispanic,451.9
+541,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Overall,"White, non-Hispanic",343
+542,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Overall,"A/PI, non-Hispanic",10
+543,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Overall,"AI/AN, non-Hispanic",28.1
+544,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Overall,"Black, non-Hispanic",34.9
+545,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Overall,Hispanic,21.3
+546,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Overall,"White, non-Hispanic",20.6
+547,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Overall,"A/PI, non-Hispanic",45.5
+548,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Overall,"AI/AN, non-Hispanic",24.5
+549,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Overall,"Black, non-Hispanic",43.3
+550,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Overall,Hispanic,58.5
+551,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Overall,"White, non-Hispanic",43.9
+552,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Overall,"A/PI, non-Hispanic",75.5
+553,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Overall,"AI/AN, non-Hispanic",0
+554,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Overall,"Black, non-Hispanic",60.5
+555,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Overall,Hispanic,88.3
+556,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Overall,"White, non-Hispanic",98
+557,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Overall,"A/PI, non-Hispanic",57.6
+558,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Overall,"AI/AN, non-Hispanic",125
+559,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Overall,"Black, non-Hispanic",72
+560,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Overall,Hispanic,73.5
+561,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Overall,"White, non-Hispanic",59
+562,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Overall,"A/PI, non-Hispanic",206.1
+563,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Overall,"AI/AN, non-Hispanic",393.2
+564,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Overall,"Black, non-Hispanic",252.4
+565,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Overall,Hispanic,255
+566,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Overall,"White, non-Hispanic",206.2
+567,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Overall,"A/PI, non-Hispanic",5.8
+568,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Overall,"AI/AN, non-Hispanic",11.2
+569,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Overall,"Black, non-Hispanic",12.3
+570,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Overall,Hispanic,7.4
+571,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Overall,"White, non-Hispanic",11.8
+572,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Overall,"A/PI, non-Hispanic",0.9
+573,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Overall,"AI/AN, non-Hispanic",5.4
+574,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Overall,"Black, non-Hispanic",4.1
+575,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Overall,Hispanic,2.6
+576,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Overall,"White, non-Hispanic",2.1
+577,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Overall,"A/PI, non-Hispanic",5.2
+578,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Overall,"AI/AN, non-Hispanic",20.2
+579,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Overall,"Black, non-Hispanic",7
+580,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Overall,Hispanic,5.2
+581,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Overall,"White, non-Hispanic",4.2
+582,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Overall,"A/PI, non-Hispanic",4.7
+583,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Overall,"AI/AN, non-Hispanic",18.8
+584,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Overall,"Black, non-Hispanic",16.6
+585,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Overall,Hispanic,10.5
+586,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Overall,"White, non-Hispanic",8.8
+587,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Overall,"A/PI, non-Hispanic",28
+588,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Overall,"AI/AN, non-Hispanic",24.9
+589,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Overall,"Black, non-Hispanic",39.5
+590,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Overall,Hispanic,38.5
+591,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Overall,"White, non-Hispanic",37
+592,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Overall,"A/PI, non-Hispanic",726
+593,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Overall,"AI/AN, non-Hispanic",2196.5
+594,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Overall,"Black, non-Hispanic",1340.1
+595,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Overall,Hispanic,1455.3
+596,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Overall,"White, non-Hispanic",1233.9
+597,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Overall,"A/PI, non-Hispanic",267.1
+598,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Overall,"AI/AN, non-Hispanic",778
+599,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Overall,"Black, non-Hispanic",337.4
+600,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Overall,Hispanic,339.4
+601,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Overall,"White, non-Hispanic",262.5
+602,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Overall,"A/PI, non-Hispanic",1
+603,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Overall,"AI/AN, non-Hispanic",0
+604,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Overall,"Black, non-Hispanic",3
+605,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Overall,Hispanic,2.6
+606,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Overall,"White, non-Hispanic",1.7
+607,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Overall,"A/PI, non-Hispanic",0.4
+608,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Overall,"AI/AN, non-Hispanic",3.4
+609,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Overall,"Black, non-Hispanic",4
+610,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Overall,Hispanic,2.6
+611,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Overall,"White, non-Hispanic",1.6
+612,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Overall,"A/PI, non-Hispanic",65.6
+613,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Overall,"AI/AN, non-Hispanic",338.1
+614,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Overall,"Black, non-Hispanic",89.7
+615,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Overall,Hispanic,117.5
+616,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Overall,"White, non-Hispanic",83.3
+617,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Overall,"A/PI, non-Hispanic",1.2
+618,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Overall,"AI/AN, non-Hispanic",8
+619,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Overall,"Black, non-Hispanic",4
+620,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Overall,Hispanic,2.6
+621,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Overall,"White, non-Hispanic",3
+622,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Overall,"A/PI, non-Hispanic",3.6
+623,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Overall,"AI/AN, non-Hispanic",15.3
+624,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Overall,"Black, non-Hispanic",10.1
+625,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Overall,Hispanic,5.2
+626,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Overall,"White, non-Hispanic",4.2
+627,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Overall,"A/PI, non-Hispanic",6.2
+628,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Overall,"AI/AN, non-Hispanic",31.8
+629,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Overall,"Black, non-Hispanic",10.4
+630,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Overall,Hispanic,13.5
+631,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Overall,"White, non-Hispanic",7.3
+632,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Overall,"A/PI, non-Hispanic",314
+633,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Overall,"AI/AN, non-Hispanic",1040.5
+634,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Overall,"Black, non-Hispanic",507.2
+635,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Overall,Hispanic,582.1
+636,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Overall,"White, non-Hispanic",485.7
+637,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Overall,"A/PI, non-Hispanic",14.3
+638,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Overall,"AI/AN, non-Hispanic",54
+639,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Overall,"Black, non-Hispanic",34.6
+640,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Overall,Hispanic,33.2
+641,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Overall,"White, non-Hispanic",24.5
+642,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Overall,"A/PI, non-Hispanic",41.3
+643,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Overall,"AI/AN, non-Hispanic",22.6
+644,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Overall,"Black, non-Hispanic",45.7
+645,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Overall,Hispanic,76.4
+646,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Overall,"White, non-Hispanic",54
+647,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Overall,"A/PI, non-Hispanic",75.9
+648,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Overall,"AI/AN, non-Hispanic",0
+649,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Overall,"Black, non-Hispanic",72.1
+650,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Overall,Hispanic,137.2
+651,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Overall,"White, non-Hispanic",118.7
+652,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Overall,"A/PI, non-Hispanic",54.1
+653,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Overall,"AI/AN, non-Hispanic",192.2
+654,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Overall,"Black, non-Hispanic",83.7
+655,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Overall,Hispanic,98.6
+656,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Overall,"White, non-Hispanic",75.1
+657,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Overall,"A/PI, non-Hispanic",187.8
+658,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Overall,"AI/AN, non-Hispanic",688.1
+659,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Overall,"Black, non-Hispanic",298.1
+660,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Overall,Hispanic,341.5
+661,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Overall,"White, non-Hispanic",271.9
+662,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Overall,"A/PI, non-Hispanic",6.9
+663,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Overall,"AI/AN, non-Hispanic",15.3
+664,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Overall,"Black, non-Hispanic",15
+665,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Overall,Hispanic,9.9
+666,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Overall,"White, non-Hispanic",14.8
+667,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Overall,"A/PI, non-Hispanic",1.6
+668,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Overall,"AI/AN, non-Hispanic",8.1
+669,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Overall,"Black, non-Hispanic",5.7
+670,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Overall,Hispanic,3.3
+671,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Overall,"White, non-Hispanic",2.8
+672,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Overall,"A/PI, non-Hispanic",3.9
+673,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Overall,"AI/AN, non-Hispanic",16.8
+674,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Overall,"Black, non-Hispanic",6.9
+675,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Overall,Hispanic,8.4
+676,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Overall,"White, non-Hispanic",4.6
+677,Entire Network (RSV-NET),2019-2020,Overall,50-64 years,Overall,"A/PI, non-Hispanic",5.7
+678,Entire Network (RSV-NET),2019-2020,Overall,50-64 years,Overall,"AI/AN, non-Hispanic",18.9
+679,Entire Network (RSV-NET),2019-2020,Overall,50-64 years,Overall,"Black, non-Hispanic",22.3
+680,Entire Network (RSV-NET),2019-2020,Overall,50-64 years,Overall,Hispanic,12
+681,Entire Network (RSV-NET),2019-2020,Overall,50-64 years,Overall,"White, non-Hispanic",11.4
+682,Entire Network (RSV-NET),2019-2020,Overall,65+ years,Overall,"A/PI, non-Hispanic",29.5
+683,Entire Network (RSV-NET),2019-2020,Overall,65+ years,Overall,"AI/AN, non-Hispanic",41.3
+684,Entire Network (RSV-NET),2019-2020,Overall,65+ years,Overall,"Black, non-Hispanic",41
+685,Entire Network (RSV-NET),2019-2020,Overall,65+ years,Overall,Hispanic,55.8
+686,Entire Network (RSV-NET),2019-2020,Overall,65+ years,Overall,"White, non-Hispanic",44.6
+687,Entire Network (RSV-NET),2020-2021,Overall,----0-<6 months,Overall,"A/PI, non-Hispanic",261.6
+688,Entire Network (RSV-NET),2020-2021,Overall,----0-<6 months,Overall,"AI/AN, non-Hispanic",462.4
+689,Entire Network (RSV-NET),2020-2021,Overall,----0-<6 months,Overall,"Black, non-Hispanic",928
+690,Entire Network (RSV-NET),2020-2021,Overall,----0-<6 months,Overall,Hispanic,674.5
+691,Entire Network (RSV-NET),2020-2021,Overall,----0-<6 months,Overall,"White, non-Hispanic",658.6
+692,Entire Network (RSV-NET),2020-2021,Overall,----1-<2 years,Overall,"A/PI, non-Hispanic",70
+693,Entire Network (RSV-NET),2020-2021,Overall,----1-<2 years,Overall,"AI/AN, non-Hispanic",0
+694,Entire Network (RSV-NET),2020-2021,Overall,----1-<2 years,Overall,"Black, non-Hispanic",278.1
+695,Entire Network (RSV-NET),2020-2021,Overall,----1-<2 years,Overall,Hispanic,180.2
+696,Entire Network (RSV-NET),2020-2021,Overall,----1-<2 years,Overall,"White, non-Hispanic",175.6
+697,Entire Network (RSV-NET),2020-2021,Overall,----12-17 years,Overall,"A/PI, non-Hispanic",1
+698,Entire Network (RSV-NET),2020-2021,Overall,----12-17 years,Overall,"AI/AN, non-Hispanic",0
+699,Entire Network (RSV-NET),2020-2021,Overall,----12-17 years,Overall,"Black, non-Hispanic",3
+700,Entire Network (RSV-NET),2020-2021,Overall,----12-17 years,Overall,Hispanic,0.7
+701,Entire Network (RSV-NET),2020-2021,Overall,----12-17 years,Overall,"White, non-Hispanic",1.2
+702,Entire Network (RSV-NET),2020-2021,Overall,----18-29 years,Overall,"A/PI, non-Hispanic",0.4
+703,Entire Network (RSV-NET),2020-2021,Overall,----18-29 years,Overall,"AI/AN, non-Hispanic",0
+704,Entire Network (RSV-NET),2020-2021,Overall,----18-29 years,Overall,"Black, non-Hispanic",2.9
+705,Entire Network (RSV-NET),2020-2021,Overall,----18-29 years,Overall,Hispanic,1.2
+706,Entire Network (RSV-NET),2020-2021,Overall,----18-29 years,Overall,"White, non-Hispanic",0.8
+707,Entire Network (RSV-NET),2020-2021,Overall,----2-4 years,Overall,"A/PI, non-Hispanic",24.1
+708,Entire Network (RSV-NET),2020-2021,Overall,----2-4 years,Overall,"AI/AN, non-Hispanic",19.9
+709,Entire Network (RSV-NET),2020-2021,Overall,----2-4 years,Overall,"Black, non-Hispanic",99.7
+710,Entire Network (RSV-NET),2020-2021,Overall,----2-4 years,Overall,Hispanic,56.7
+711,Entire Network (RSV-NET),2020-2021,Overall,----2-4 years,Overall,"White, non-Hispanic",49.6
+712,Entire Network (RSV-NET),2020-2021,Overall,----30-39 years,Overall,"A/PI, non-Hispanic",0.2
+713,Entire Network (RSV-NET),2020-2021,Overall,----30-39 years,Overall,"AI/AN, non-Hispanic",0
+714,Entire Network (RSV-NET),2020-2021,Overall,----30-39 years,Overall,"Black, non-Hispanic",3
+715,Entire Network (RSV-NET),2020-2021,Overall,----30-39 years,Overall,Hispanic,1.4
+716,Entire Network (RSV-NET),2020-2021,Overall,----30-39 years,Overall,"White, non-Hispanic",1.5
+717,Entire Network (RSV-NET),2020-2021,Overall,----40-49 years,Overall,"A/PI, non-Hispanic",0.7
+718,Entire Network (RSV-NET),2020-2021,Overall,----40-49 years,Overall,"AI/AN, non-Hispanic",0
+719,Entire Network (RSV-NET),2020-2021,Overall,----40-49 years,Overall,"Black, non-Hispanic",3
+720,Entire Network (RSV-NET),2020-2021,Overall,----40-49 years,Overall,Hispanic,1.2
+721,Entire Network (RSV-NET),2020-2021,Overall,----40-49 years,Overall,"White, non-Hispanic",0.6
+722,Entire Network (RSV-NET),2020-2021,Overall,----5-11 years,Overall,"A/PI, non-Hispanic",0.8
+723,Entire Network (RSV-NET),2020-2021,Overall,----5-11 years,Overall,"AI/AN, non-Hispanic",0
+724,Entire Network (RSV-NET),2020-2021,Overall,----5-11 years,Overall,"Black, non-Hispanic",7.6
+725,Entire Network (RSV-NET),2020-2021,Overall,----5-11 years,Overall,Hispanic,7
+726,Entire Network (RSV-NET),2020-2021,Overall,----5-11 years,Overall,"White, non-Hispanic",1.5
+727,Entire Network (RSV-NET),2020-2021,Overall,----6-<12 months,Overall,"A/PI, non-Hispanic",71.9
+728,Entire Network (RSV-NET),2020-2021,Overall,----6-<12 months,Overall,"AI/AN, non-Hispanic",231.2
+729,Entire Network (RSV-NET),2020-2021,Overall,----6-<12 months,Overall,"Black, non-Hispanic",438
+730,Entire Network (RSV-NET),2020-2021,Overall,----6-<12 months,Overall,Hispanic,243.5
+731,Entire Network (RSV-NET),2020-2021,Overall,----6-<12 months,Overall,"White, non-Hispanic",237.2
+732,Entire Network (RSV-NET),2020-2021,Overall,----65-74 years,Overall,"A/PI, non-Hispanic",3.3
+733,Entire Network (RSV-NET),2020-2021,Overall,----65-74 years,Overall,"AI/AN, non-Hispanic",9
+734,Entire Network (RSV-NET),2020-2021,Overall,----65-74 years,Overall,"Black, non-Hispanic",10.6
+735,Entire Network (RSV-NET),2020-2021,Overall,----65-74 years,Overall,Hispanic,6.5
+736,Entire Network (RSV-NET),2020-2021,Overall,----65-74 years,Overall,"White, non-Hispanic",4.7
+737,Entire Network (RSV-NET),2020-2021,Overall,----75-84 years,Overall,"A/PI, non-Hispanic",6
+738,Entire Network (RSV-NET),2020-2021,Overall,----75-84 years,Overall,"AI/AN, non-Hispanic",0
+739,Entire Network (RSV-NET),2020-2021,Overall,----75-84 years,Overall,"Black, non-Hispanic",6.1
+740,Entire Network (RSV-NET),2020-2021,Overall,----75-84 years,Overall,Hispanic,5.6
+741,Entire Network (RSV-NET),2020-2021,Overall,----75-84 years,Overall,"White, non-Hispanic",7
+742,Entire Network (RSV-NET),2020-2021,Overall,----85+ years,Overall,"A/PI, non-Hispanic",11.5
+743,Entire Network (RSV-NET),2020-2021,Overall,----85+ years,Overall,"AI/AN, non-Hispanic",0
+744,Entire Network (RSV-NET),2020-2021,Overall,----85+ years,Overall,"Black, non-Hispanic",7
+745,Entire Network (RSV-NET),2020-2021,Overall,----85+ years,Overall,Hispanic,21.1
+746,Entire Network (RSV-NET),2020-2021,Overall,----85+ years,Overall,"White, non-Hispanic",10.3
+747,Entire Network (RSV-NET),2020-2021,Overall,0-17 (Children),Overall,"A/PI, non-Hispanic",16.8
+748,Entire Network (RSV-NET),2020-2021,Overall,0-17 (Children),Overall,"AI/AN, non-Hispanic",21.7
+749,Entire Network (RSV-NET),2020-2021,Overall,0-17 (Children),Overall,"Black, non-Hispanic",68.9
+750,Entire Network (RSV-NET),2020-2021,Overall,0-17 (Children),Overall,Hispanic,46.7
+751,Entire Network (RSV-NET),2020-2021,Overall,0-17 (Children),Overall,"White, non-Hispanic",41.4
+752,Entire Network (RSV-NET),2020-2021,Overall,0-4 years,Overall,"A/PI, non-Hispanic",59.2
+753,Entire Network (RSV-NET),2020-2021,Overall,0-4 years,Overall,"AI/AN, non-Hispanic",83
+754,Entire Network (RSV-NET),2020-2021,Overall,0-4 years,Overall,"Black, non-Hispanic",246.4
+755,Entire Network (RSV-NET),2020-2021,Overall,0-4 years,Overall,Hispanic,161.5
+756,Entire Network (RSV-NET),2020-2021,Overall,0-4 years,Overall,"White, non-Hispanic",153
+757,Entire Network (RSV-NET),2020-2021,Overall,18+ (Adults),Overall,"A/PI, non-Hispanic",1.4
+758,Entire Network (RSV-NET),2020-2021,Overall,18+ (Adults),Overall,"AI/AN, non-Hispanic",1.7
+759,Entire Network (RSV-NET),2020-2021,Overall,18+ (Adults),Overall,"Black, non-Hispanic",4.5
+760,Entire Network (RSV-NET),2020-2021,Overall,18+ (Adults),Overall,Hispanic,2.3
+761,Entire Network (RSV-NET),2020-2021,Overall,18+ (Adults),Overall,"White, non-Hispanic",2.4
+762,Entire Network (RSV-NET),2020-2021,Overall,18-49 years,Overall,"A/PI, non-Hispanic",0.4
+763,Entire Network (RSV-NET),2020-2021,Overall,18-49 years,Overall,"AI/AN, non-Hispanic",0
+764,Entire Network (RSV-NET),2020-2021,Overall,18-49 years,Overall,"Black, non-Hispanic",3
+765,Entire Network (RSV-NET),2020-2021,Overall,18-49 years,Overall,Hispanic,1.3
+766,Entire Network (RSV-NET),2020-2021,Overall,18-49 years,Overall,"White, non-Hispanic",1
+767,Entire Network (RSV-NET),2020-2021,Overall,5-17 years,Overall,"A/PI, non-Hispanic",0.9
+768,Entire Network (RSV-NET),2020-2021,Overall,5-17 years,Overall,"AI/AN, non-Hispanic",0
+769,Entire Network (RSV-NET),2020-2021,Overall,5-17 years,Overall,"Black, non-Hispanic",5.4
+770,Entire Network (RSV-NET),2020-2021,Overall,5-17 years,Overall,Hispanic,4
+771,Entire Network (RSV-NET),2020-2021,Overall,5-17 years,Overall,"White, non-Hispanic",1.4
+772,Entire Network (RSV-NET),2020-2021,Overall,50-64 years,Overall,"A/PI, non-Hispanic",1.7
+773,Entire Network (RSV-NET),2020-2021,Overall,50-64 years,Overall,"AI/AN, non-Hispanic",3.8
+774,Entire Network (RSV-NET),2020-2021,Overall,50-64 years,Overall,"Black, non-Hispanic",5.4
+775,Entire Network (RSV-NET),2020-2021,Overall,50-64 years,Overall,Hispanic,3.6
+776,Entire Network (RSV-NET),2020-2021,Overall,50-64 years,Overall,"White, non-Hispanic",2
+777,Entire Network (RSV-NET),2020-2021,Overall,65+ years,Overall,"A/PI, non-Hispanic",5.1
+778,Entire Network (RSV-NET),2020-2021,Overall,65+ years,Overall,"AI/AN, non-Hispanic",5.9
+779,Entire Network (RSV-NET),2020-2021,Overall,65+ years,Overall,"Black, non-Hispanic",9.1
+780,Entire Network (RSV-NET),2020-2021,Overall,65+ years,Overall,Hispanic,7.8
+781,Entire Network (RSV-NET),2020-2021,Overall,65+ years,Overall,"White, non-Hispanic",6.1
+782,Entire Network (RSV-NET),2021-2022,Overall,----0-<6 months,Overall,"A/PI, non-Hispanic",606.9
+783,Entire Network (RSV-NET),2021-2022,Overall,----0-<6 months,Overall,"AI/AN, non-Hispanic",1270.2
+784,Entire Network (RSV-NET),2021-2022,Overall,----0-<6 months,Overall,"Black, non-Hispanic",1024.4
+785,Entire Network (RSV-NET),2021-2022,Overall,----0-<6 months,Overall,Hispanic,1365.6
+786,Entire Network (RSV-NET),2021-2022,Overall,----0-<6 months,Overall,"White, non-Hispanic",1195.3
+787,Entire Network (RSV-NET),2021-2022,Overall,----1-<2 years,Overall,"A/PI, non-Hispanic",212.6
+788,Entire Network (RSV-NET),2021-2022,Overall,----1-<2 years,Overall,"AI/AN, non-Hispanic",418.7
+789,Entire Network (RSV-NET),2021-2022,Overall,----1-<2 years,Overall,"Black, non-Hispanic",339.7
+790,Entire Network (RSV-NET),2021-2022,Overall,----1-<2 years,Overall,Hispanic,327.5
+791,Entire Network (RSV-NET),2021-2022,Overall,----1-<2 years,Overall,"White, non-Hispanic",272.3
+792,Entire Network (RSV-NET),2021-2022,Overall,----12-17 years,Overall,"A/PI, non-Hispanic",1.5
+793,Entire Network (RSV-NET),2021-2022,Overall,----12-17 years,Overall,"AI/AN, non-Hispanic",8.9
+794,Entire Network (RSV-NET),2021-2022,Overall,----12-17 years,Overall,"Black, non-Hispanic",5.1
+795,Entire Network (RSV-NET),2021-2022,Overall,----12-17 years,Overall,Hispanic,4.4
+796,Entire Network (RSV-NET),2021-2022,Overall,----12-17 years,Overall,"White, non-Hispanic",1.6
+797,Entire Network (RSV-NET),2021-2022,Overall,----18-29 years,Overall,"A/PI, non-Hispanic",1
+798,Entire Network (RSV-NET),2021-2022,Overall,----18-29 years,Overall,"AI/AN, non-Hispanic",3.4
+799,Entire Network (RSV-NET),2021-2022,Overall,----18-29 years,Overall,"Black, non-Hispanic",5.2
+800,Entire Network (RSV-NET),2021-2022,Overall,----18-29 years,Overall,Hispanic,4.2
+801,Entire Network (RSV-NET),2021-2022,Overall,----18-29 years,Overall,"White, non-Hispanic",2.4
+802,Entire Network (RSV-NET),2021-2022,Overall,----2-4 years,Overall,"A/PI, non-Hispanic",81.9
+803,Entire Network (RSV-NET),2021-2022,Overall,----2-4 years,Overall,"AI/AN, non-Hispanic",139
+804,Entire Network (RSV-NET),2021-2022,Overall,----2-4 years,Overall,"Black, non-Hispanic",137.8
+805,Entire Network (RSV-NET),2021-2022,Overall,----2-4 years,Overall,Hispanic,126
+806,Entire Network (RSV-NET),2021-2022,Overall,----2-4 years,Overall,"White, non-Hispanic",99.8
+807,Entire Network (RSV-NET),2021-2022,Overall,----30-39 years,Overall,"A/PI, non-Hispanic",3.9
+808,Entire Network (RSV-NET),2021-2022,Overall,----30-39 years,Overall,"AI/AN, non-Hispanic",8
+809,Entire Network (RSV-NET),2021-2022,Overall,----30-39 years,Overall,"Black, non-Hispanic",6.3
+810,Entire Network (RSV-NET),2021-2022,Overall,----30-39 years,Overall,Hispanic,4.4
+811,Entire Network (RSV-NET),2021-2022,Overall,----30-39 years,Overall,"White, non-Hispanic",3.4
+812,Entire Network (RSV-NET),2021-2022,Overall,----40-49 years,Overall,"A/PI, non-Hispanic",2.4
+813,Entire Network (RSV-NET),2021-2022,Overall,----40-49 years,Overall,"AI/AN, non-Hispanic",0
+814,Entire Network (RSV-NET),2021-2022,Overall,----40-49 years,Overall,"Black, non-Hispanic",9
+815,Entire Network (RSV-NET),2021-2022,Overall,----40-49 years,Overall,Hispanic,4.3
+816,Entire Network (RSV-NET),2021-2022,Overall,----40-49 years,Overall,"White, non-Hispanic",3.2
+817,Entire Network (RSV-NET),2021-2022,Overall,----5-11 years,Overall,"A/PI, non-Hispanic",9.1
+818,Entire Network (RSV-NET),2021-2022,Overall,----5-11 years,Overall,"AI/AN, non-Hispanic",23.7
+819,Entire Network (RSV-NET),2021-2022,Overall,----5-11 years,Overall,"Black, non-Hispanic",17.2
+820,Entire Network (RSV-NET),2021-2022,Overall,----5-11 years,Overall,Hispanic,16.6
+821,Entire Network (RSV-NET),2021-2022,Overall,----5-11 years,Overall,"White, non-Hispanic",11.4
+822,Entire Network (RSV-NET),2021-2022,Overall,----6-<12 months,Overall,"A/PI, non-Hispanic",339.4
+823,Entire Network (RSV-NET),2021-2022,Overall,----6-<12 months,Overall,"AI/AN, non-Hispanic",577.4
+824,Entire Network (RSV-NET),2021-2022,Overall,----6-<12 months,Overall,"Black, non-Hispanic",440.3
+825,Entire Network (RSV-NET),2021-2022,Overall,----6-<12 months,Overall,Hispanic,541.8
+826,Entire Network (RSV-NET),2021-2022,Overall,----6-<12 months,Overall,"White, non-Hispanic",479.1
+827,Entire Network (RSV-NET),2021-2022,Overall,----65-74 years,Overall,"A/PI, non-Hispanic",13.8
+828,Entire Network (RSV-NET),2021-2022,Overall,----65-74 years,Overall,"AI/AN, non-Hispanic",9
+829,Entire Network (RSV-NET),2021-2022,Overall,----65-74 years,Overall,"Black, non-Hispanic",29.8
+830,Entire Network (RSV-NET),2021-2022,Overall,----65-74 years,Overall,Hispanic,33.1
+831,Entire Network (RSV-NET),2021-2022,Overall,----65-74 years,Overall,"White, non-Hispanic",17.5
+832,Entire Network (RSV-NET),2021-2022,Overall,----75-84 years,Overall,"A/PI, non-Hispanic",31.2
+833,Entire Network (RSV-NET),2021-2022,Overall,----75-84 years,Overall,"AI/AN, non-Hispanic",45
+834,Entire Network (RSV-NET),2021-2022,Overall,----75-84 years,Overall,"Black, non-Hispanic",45
+835,Entire Network (RSV-NET),2021-2022,Overall,----75-84 years,Overall,Hispanic,63.7
+836,Entire Network (RSV-NET),2021-2022,Overall,----75-84 years,Overall,"White, non-Hispanic",40.8
+837,Entire Network (RSV-NET),2021-2022,Overall,----85+ years,Overall,"A/PI, non-Hispanic",52.9
+838,Entire Network (RSV-NET),2021-2022,Overall,----85+ years,Overall,"AI/AN, non-Hispanic",142.2
+839,Entire Network (RSV-NET),2021-2022,Overall,----85+ years,Overall,"Black, non-Hispanic",38.6
+840,Entire Network (RSV-NET),2021-2022,Overall,----85+ years,Overall,Hispanic,80.6
+841,Entire Network (RSV-NET),2021-2022,Overall,----85+ years,Overall,"White, non-Hispanic",64.4
+842,Entire Network (RSV-NET),2021-2022,Overall,0-17 (Children),Overall,"A/PI, non-Hispanic",53
+843,Entire Network (RSV-NET),2021-2022,Overall,0-17 (Children),Overall,"AI/AN, non-Hispanic",105.1
+844,Entire Network (RSV-NET),2021-2022,Overall,0-17 (Children),Overall,"Black, non-Hispanic",85.3
+845,Entire Network (RSV-NET),2021-2022,Overall,0-17 (Children),Overall,Hispanic,97.6
+846,Entire Network (RSV-NET),2021-2022,Overall,0-17 (Children),Overall,"White, non-Hispanic",78.5
+847,Entire Network (RSV-NET),2021-2022,Overall,0-4 years,Overall,"A/PI, non-Hispanic",179
+848,Entire Network (RSV-NET),2021-2022,Overall,0-4 years,Overall,"AI/AN, non-Hispanic",355.5
+849,Entire Network (RSV-NET),2021-2022,Overall,0-4 years,Overall,"Black, non-Hispanic",291.3
+850,Entire Network (RSV-NET),2021-2022,Overall,0-4 years,Overall,Hispanic,331.2
+851,Entire Network (RSV-NET),2021-2022,Overall,0-4 years,Overall,"White, non-Hispanic",279.4
+852,Entire Network (RSV-NET),2021-2022,Overall,18+ (Adults),Overall,"A/PI, non-Hispanic",6.2
+853,Entire Network (RSV-NET),2021-2022,Overall,18+ (Adults),Overall,"AI/AN, non-Hispanic",11.1
+854,Entire Network (RSV-NET),2021-2022,Overall,18+ (Adults),Overall,"Black, non-Hispanic",13.4
+855,Entire Network (RSV-NET),2021-2022,Overall,18+ (Adults),Overall,Hispanic,10
+856,Entire Network (RSV-NET),2021-2022,Overall,18+ (Adults),Overall,"White, non-Hispanic",10.8
+857,Entire Network (RSV-NET),2021-2022,Overall,18-49 years,Overall,"A/PI, non-Hispanic",2.5
+858,Entire Network (RSV-NET),2021-2022,Overall,18-49 years,Overall,"AI/AN, non-Hispanic",4.1
+859,Entire Network (RSV-NET),2021-2022,Overall,18-49 years,Overall,"Black, non-Hispanic",6.6
+860,Entire Network (RSV-NET),2021-2022,Overall,18-49 years,Overall,Hispanic,4.3
+861,Entire Network (RSV-NET),2021-2022,Overall,18-49 years,Overall,"White, non-Hispanic",3
+862,Entire Network (RSV-NET),2021-2022,Overall,5-17 years,Overall,"A/PI, non-Hispanic",5.7
+863,Entire Network (RSV-NET),2021-2022,Overall,5-17 years,Overall,"AI/AN, non-Hispanic",16.7
+864,Entire Network (RSV-NET),2021-2022,Overall,5-17 years,Overall,"Black, non-Hispanic",11.5
+865,Entire Network (RSV-NET),2021-2022,Overall,5-17 years,Overall,Hispanic,10.9
+866,Entire Network (RSV-NET),2021-2022,Overall,5-17 years,Overall,"White, non-Hispanic",6.7
+867,Entire Network (RSV-NET),2021-2022,Overall,50-64 years,Overall,"A/PI, non-Hispanic",4.4
+868,Entire Network (RSV-NET),2021-2022,Overall,50-64 years,Overall,"AI/AN, non-Hispanic",18.8
+869,Entire Network (RSV-NET),2021-2022,Overall,50-64 years,Overall,"Black, non-Hispanic",17.3
+870,Entire Network (RSV-NET),2021-2022,Overall,50-64 years,Overall,Hispanic,13.6
+871,Entire Network (RSV-NET),2021-2022,Overall,50-64 years,Overall,"White, non-Hispanic",9.1
+872,Entire Network (RSV-NET),2021-2022,Overall,65+ years,Overall,"A/PI, non-Hispanic",23.5
+873,Entire Network (RSV-NET),2021-2022,Overall,65+ years,Overall,"AI/AN, non-Hispanic",29.4
+874,Entire Network (RSV-NET),2021-2022,Overall,65+ years,Overall,"Black, non-Hispanic",34.6
+875,Entire Network (RSV-NET),2021-2022,Overall,65+ years,Overall,Hispanic,46.3
+876,Entire Network (RSV-NET),2021-2022,Overall,65+ years,Overall,"White, non-Hispanic",30
+877,Entire Network (RSV-NET),2022-2023,Overall,----0-<6 months,Overall,"A/PI, non-Hispanic",940
+878,Entire Network (RSV-NET),2022-2023,Overall,----0-<6 months,Overall,"AI/AN, non-Hispanic",2068.1
+879,Entire Network (RSV-NET),2022-2023,Overall,----0-<6 months,Overall,"Black, non-Hispanic",1118.6
+880,Entire Network (RSV-NET),2022-2023,Overall,----0-<6 months,Overall,Hispanic,1792
+881,Entire Network (RSV-NET),2022-2023,Overall,----0-<6 months,Overall,"White, non-Hispanic",1599.7
+882,Entire Network (RSV-NET),2022-2023,Overall,----1-<2 years,Overall,"A/PI, non-Hispanic",342.4
+883,Entire Network (RSV-NET),2022-2023,Overall,----1-<2 years,Overall,"AI/AN, non-Hispanic",1146.5
+884,Entire Network (RSV-NET),2022-2023,Overall,----1-<2 years,Overall,"Black, non-Hispanic",354
+885,Entire Network (RSV-NET),2022-2023,Overall,----1-<2 years,Overall,Hispanic,634
+886,Entire Network (RSV-NET),2022-2023,Overall,----1-<2 years,Overall,"White, non-Hispanic",379.2
+887,Entire Network (RSV-NET),2022-2023,Overall,----12-17 years,Overall,"A/PI, non-Hispanic",5
+888,Entire Network (RSV-NET),2022-2023,Overall,----12-17 years,Overall,"AI/AN, non-Hispanic",0
+889,Entire Network (RSV-NET),2022-2023,Overall,----12-17 years,Overall,"Black, non-Hispanic",5.6
+890,Entire Network (RSV-NET),2022-2023,Overall,----12-17 years,Overall,Hispanic,4.9
+891,Entire Network (RSV-NET),2022-2023,Overall,----12-17 years,Overall,"White, non-Hispanic",5.3
+892,Entire Network (RSV-NET),2022-2023,Overall,----18-29 years,Overall,"A/PI, non-Hispanic",2
+893,Entire Network (RSV-NET),2022-2023,Overall,----18-29 years,Overall,"AI/AN, non-Hispanic",7.2
+894,Entire Network (RSV-NET),2022-2023,Overall,----18-29 years,Overall,"Black, non-Hispanic",4.5
+895,Entire Network (RSV-NET),2022-2023,Overall,----18-29 years,Overall,Hispanic,5.3
+896,Entire Network (RSV-NET),2022-2023,Overall,----18-29 years,Overall,"White, non-Hispanic",2.5
+897,Entire Network (RSV-NET),2022-2023,Overall,----2-4 years,Overall,"A/PI, non-Hispanic",152
+898,Entire Network (RSV-NET),2022-2023,Overall,----2-4 years,Overall,"AI/AN, non-Hispanic",294.5
+899,Entire Network (RSV-NET),2022-2023,Overall,----2-4 years,Overall,"Black, non-Hispanic",131
+900,Entire Network (RSV-NET),2022-2023,Overall,----2-4 years,Overall,Hispanic,268.6
+901,Entire Network (RSV-NET),2022-2023,Overall,----2-4 years,Overall,"White, non-Hispanic",186.8
+902,Entire Network (RSV-NET),2022-2023,Overall,----30-39 years,Overall,"A/PI, non-Hispanic",3.6
+903,Entire Network (RSV-NET),2022-2023,Overall,----30-39 years,Overall,"AI/AN, non-Hispanic",4.2
+904,Entire Network (RSV-NET),2022-2023,Overall,----30-39 years,Overall,"Black, non-Hispanic",7.2
+905,Entire Network (RSV-NET),2022-2023,Overall,----30-39 years,Overall,Hispanic,5
+906,Entire Network (RSV-NET),2022-2023,Overall,----30-39 years,Overall,"White, non-Hispanic",3.8
+907,Entire Network (RSV-NET),2022-2023,Overall,----40-49 years,Overall,"A/PI, non-Hispanic",4.7
+908,Entire Network (RSV-NET),2022-2023,Overall,----40-49 years,Overall,"AI/AN, non-Hispanic",0
+909,Entire Network (RSV-NET),2022-2023,Overall,----40-49 years,Overall,"Black, non-Hispanic",10.4
+910,Entire Network (RSV-NET),2022-2023,Overall,----40-49 years,Overall,Hispanic,5.5
+911,Entire Network (RSV-NET),2022-2023,Overall,----40-49 years,Overall,"White, non-Hispanic",3.9
+912,Entire Network (RSV-NET),2022-2023,Overall,----5-11 years,Overall,"A/PI, non-Hispanic",17.7
+913,Entire Network (RSV-NET),2022-2023,Overall,----5-11 years,Overall,"AI/AN, non-Hispanic",42.2
+914,Entire Network (RSV-NET),2022-2023,Overall,----5-11 years,Overall,"Black, non-Hispanic",21.1
+915,Entire Network (RSV-NET),2022-2023,Overall,----5-11 years,Overall,Hispanic,37.8
+916,Entire Network (RSV-NET),2022-2023,Overall,----5-11 years,Overall,"White, non-Hispanic",22.8
+917,Entire Network (RSV-NET),2022-2023,Overall,----6-<12 months,Overall,"A/PI, non-Hispanic",441.5
+918,Entire Network (RSV-NET),2022-2023,Overall,----6-<12 months,Overall,"AI/AN, non-Hispanic",1216.5
+919,Entire Network (RSV-NET),2022-2023,Overall,----6-<12 months,Overall,"Black, non-Hispanic",496.8
+920,Entire Network (RSV-NET),2022-2023,Overall,----6-<12 months,Overall,Hispanic,879.8
+921,Entire Network (RSV-NET),2022-2023,Overall,----6-<12 months,Overall,"White, non-Hispanic",657.7
+922,Entire Network (RSV-NET),2022-2023,Overall,----65-74 years,Overall,"A/PI, non-Hispanic",21.3
+923,Entire Network (RSV-NET),2022-2023,Overall,----65-74 years,Overall,"AI/AN, non-Hispanic",49.4
+924,Entire Network (RSV-NET),2022-2023,Overall,----65-74 years,Overall,"Black, non-Hispanic",41.6
+925,Entire Network (RSV-NET),2022-2023,Overall,----65-74 years,Overall,Hispanic,38.3
+926,Entire Network (RSV-NET),2022-2023,Overall,----65-74 years,Overall,"White, non-Hispanic",29.1
+927,Entire Network (RSV-NET),2022-2023,Overall,----75-84 years,Overall,"A/PI, non-Hispanic",68.4
+928,Entire Network (RSV-NET),2022-2023,Overall,----75-84 years,Overall,"AI/AN, non-Hispanic",50.2
+929,Entire Network (RSV-NET),2022-2023,Overall,----75-84 years,Overall,"Black, non-Hispanic",44.5
+930,Entire Network (RSV-NET),2022-2023,Overall,----75-84 years,Overall,Hispanic,89.2
+931,Entire Network (RSV-NET),2022-2023,Overall,----75-84 years,Overall,"White, non-Hispanic",62.9
+932,Entire Network (RSV-NET),2022-2023,Overall,----85+ years,Overall,"A/PI, non-Hispanic",137.6
+933,Entire Network (RSV-NET),2022-2023,Overall,----85+ years,Overall,"AI/AN, non-Hispanic",0
+934,Entire Network (RSV-NET),2022-2023,Overall,----85+ years,Overall,"Black, non-Hispanic",61.4
+935,Entire Network (RSV-NET),2022-2023,Overall,----85+ years,Overall,Hispanic,133.3
+936,Entire Network (RSV-NET),2022-2023,Overall,----85+ years,Overall,"White, non-Hispanic",117.5
+937,Entire Network (RSV-NET),2022-2023,Overall,0-17 (Children),Overall,"A/PI, non-Hispanic",87.7
+938,Entire Network (RSV-NET),2022-2023,Overall,0-17 (Children),Overall,"AI/AN, non-Hispanic",210.7
+939,Entire Network (RSV-NET),2022-2023,Overall,0-17 (Children),Overall,"Black, non-Hispanic",90.2
+940,Entire Network (RSV-NET),2022-2023,Overall,0-17 (Children),Overall,Hispanic,163.7
+941,Entire Network (RSV-NET),2022-2023,Overall,0-17 (Children),Overall,"White, non-Hispanic",119.5
+942,Entire Network (RSV-NET),2022-2023,Overall,0-4 years,Overall,"A/PI, non-Hispanic",287.5
+943,Entire Network (RSV-NET),2022-2023,Overall,0-4 years,Overall,"AI/AN, non-Hispanic",740.5
+944,Entire Network (RSV-NET),2022-2023,Overall,0-4 years,Overall,"Black, non-Hispanic",304
+945,Entire Network (RSV-NET),2022-2023,Overall,0-4 years,Overall,Hispanic,553.3
+946,Entire Network (RSV-NET),2022-2023,Overall,0-4 years,Overall,"White, non-Hispanic",411.8
+947,Entire Network (RSV-NET),2022-2023,Overall,18+ (Adults),Overall,"A/PI, non-Hispanic",11.5
+948,Entire Network (RSV-NET),2022-2023,Overall,18+ (Adults),Overall,"AI/AN, non-Hispanic",12.8
+949,Entire Network (RSV-NET),2022-2023,Overall,18+ (Adults),Overall,"Black, non-Hispanic",15.3
+950,Entire Network (RSV-NET),2022-2023,Overall,18+ (Adults),Overall,Hispanic,12.8
+951,Entire Network (RSV-NET),2022-2023,Overall,18+ (Adults),Overall,"White, non-Hispanic",16.1
+952,Entire Network (RSV-NET),2022-2023,Overall,18-49 years,Overall,"A/PI, non-Hispanic",3.4
+953,Entire Network (RSV-NET),2022-2023,Overall,18-49 years,Overall,"AI/AN, non-Hispanic",4.3
+954,Entire Network (RSV-NET),2022-2023,Overall,18-49 years,Overall,"Black, non-Hispanic",7
+955,Entire Network (RSV-NET),2022-2023,Overall,18-49 years,Overall,Hispanic,5.3
+956,Entire Network (RSV-NET),2022-2023,Overall,18-49 years,Overall,"White, non-Hispanic",3.4
+957,Entire Network (RSV-NET),2022-2023,Overall,5-17 years,Overall,"A/PI, non-Hispanic",11.9
+958,Entire Network (RSV-NET),2022-2023,Overall,5-17 years,Overall,"AI/AN, non-Hispanic",22.3
+959,Entire Network (RSV-NET),2022-2023,Overall,5-17 years,Overall,"Black, non-Hispanic",13.9
+960,Entire Network (RSV-NET),2022-2023,Overall,5-17 years,Overall,Hispanic,22.3
+961,Entire Network (RSV-NET),2022-2023,Overall,5-17 years,Overall,"White, non-Hispanic",14.5
+962,Entire Network (RSV-NET),2022-2023,Overall,50-64 years,Overall,"A/PI, non-Hispanic",8.4
+963,Entire Network (RSV-NET),2022-2023,Overall,50-64 years,Overall,"AI/AN, non-Hispanic",16.5
+964,Entire Network (RSV-NET),2022-2023,Overall,50-64 years,Overall,"Black, non-Hispanic",19.5
+965,Entire Network (RSV-NET),2022-2023,Overall,50-64 years,Overall,Hispanic,16.6
+966,Entire Network (RSV-NET),2022-2023,Overall,50-64 years,Overall,"White, non-Hispanic",11.6
+967,Entire Network (RSV-NET),2022-2023,Overall,65+ years,Overall,"A/PI, non-Hispanic",49
+968,Entire Network (RSV-NET),2022-2023,Overall,65+ years,Overall,"AI/AN, non-Hispanic",45.7
+969,Entire Network (RSV-NET),2022-2023,Overall,65+ years,Overall,"Black, non-Hispanic",44.2
+970,Entire Network (RSV-NET),2022-2023,Overall,65+ years,Overall,Hispanic,62
+971,Entire Network (RSV-NET),2022-2023,Overall,65+ years,Overall,"White, non-Hispanic",49.6
+972,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Female,Overall,1.1
+973,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Male,Overall,0.5
+974,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Female,Overall,0.8
+975,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Male,Overall,0.6
+976,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Female,Overall,2.6
+977,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Male,Overall,1.7
+978,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Female,Overall,10
+979,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Male,Overall,9.7
+980,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Female,Overall,17.7
+981,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Male,Overall,20.2
+982,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Female,Overall,38.4
+983,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Male,Overall,23.4
+984,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Female,Overall,5.2
+985,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Male,Overall,3.5
+986,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Female,Overall,1.5
+987,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Male,Overall,0.9
+988,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Female,Overall,5.4
+989,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Male,Overall,3.4
+990,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Female,Overall,16.6
+991,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Male,Overall,13.9
+992,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Female,Overall,1.9
+993,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Male,Overall,1.2
+994,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Female,Overall,2.5
+995,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Male,Overall,1.4
+996,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Female,Overall,2.7
+997,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Male,Overall,2.1
+998,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Female,Overall,15.2
+999,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Male,Overall,13.5
+1000,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Female,Overall,29.2
+1001,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Male,Overall,23.5
+1002,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Female,Overall,54.4
+1003,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Male,Overall,55.8
+1004,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Female,Overall,8
+1005,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Male,Overall,5.4
+1006,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Female,Overall,2.4
+1007,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Male,Overall,1.5
+1008,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Female,Overall,8.1
+1009,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Male,Overall,5.3
+1010,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Female,Overall,25
+1011,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Male,Overall,20.4
+1012,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Female,Overall,1.9
+1013,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Male,Overall,1.1
+1014,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Female,Overall,2.3
+1015,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Male,Overall,1.1
+1016,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Female,Overall,1.9
+1017,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Male,Overall,2.3
+1018,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Female,Overall,15.4
+1019,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Male,Overall,18.4
+1020,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Female,Overall,37.1
+1021,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Male,Overall,37.5
+1022,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Female,Overall,77.1
+1023,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Male,Overall,81.7
+1024,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Female,Overall,9.3
+1025,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Male,Overall,7.6
+1026,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Female,Overall,2
+1027,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Male,Overall,1.4
+1028,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Female,Overall,9.5
+1029,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Male,Overall,8.2
+1030,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Female,Overall,30.5
+1031,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Male,Overall,29.8
+1032,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Female,Overall,1.7
+1033,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Male,Overall,1.1
+1034,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Female,Overall,2.3
+1035,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Male,Overall,1.3
+1036,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Female,Overall,4
+1037,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Male,Overall,3.2
+1038,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Female,Overall,22.8
+1039,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Male,Overall,21.5
+1040,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Female,Overall,50.9
+1041,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Male,Overall,42.2
+1042,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Female,Overall,103.3
+1043,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Male,Overall,90.6
+1044,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Female,Overall,12.6
+1045,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Male,Overall,9.2
+1046,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Female,Overall,2.6
+1047,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Male,Overall,1.8
+1048,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Female,Overall,11.4
+1049,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Male,Overall,10.5
+1050,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Female,Overall,42.2
+1051,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Male,Overall,33.9
+1052,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Female,Overall,1062
+1053,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Male,Overall,1221
+1054,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Female,Overall,242.3
+1055,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Male,Overall,275.5
+1056,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Female,Overall,2.3
+1057,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Male,Overall,2.2
+1058,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Female,Overall,1.9
+1059,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Male,Overall,1.2
+1060,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Female,Overall,65.7
+1061,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Male,Overall,75.8
+1062,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Female,Overall,2.5
+1063,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Male,Overall,2.5
+1064,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Female,Overall,4.3
+1065,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Male,Overall,3.3
+1066,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Female,Overall,7.1
+1067,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Male,Overall,9.3
+1068,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Female,Overall,389.9
+1069,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Male,Overall,480.3
+1070,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Female,Overall,24.3
+1071,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Male,Overall,21
+1072,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Female,Overall,46.2
+1073,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Male,Overall,46.4
+1074,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Female,Overall,94.8
+1075,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Male,Overall,94.2
+1076,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Female,Overall,65.2
+1077,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Male,Overall,76.3
+1078,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Female,Overall,229.2
+1079,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Male,Overall,267
+1080,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Female,Overall,12.4
+1081,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Male,Overall,9.7
+1082,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Female,Overall,2.8
+1083,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Male,Overall,2.3
+1084,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Female,Overall,4.9
+1085,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Male,Overall,6
+1086,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Female,Overall,10.8
+1087,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Male,Overall,10
+1088,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Female,Overall,40.4
+1089,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Male,Overall,35
+1090,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Female,Overall,1205
+1091,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Male,Overall,1655.6
+1092,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Female,Overall,304
+1093,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Male,Overall,364.5
+1094,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Female,Overall,1.6
+1095,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Male,Overall,2.6
+1096,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Female,Overall,3.1
+1097,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Male,Overall,1.4
+1098,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Female,Overall,100.3
+1099,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Male,Overall,99.9
+1100,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Female,Overall,3.5
+1101,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Male,Overall,2.6
+1102,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Female,Overall,6.2
+1103,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Male,Overall,5.1
+1104,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Female,Overall,10.2
+1105,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Male,Overall,9.8
+1106,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Female,Overall,515
+1107,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Male,Overall,608.1
+1108,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Female,Overall,27.4
+1109,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Male,Overall,26.3
+1110,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Female,Overall,56.8
+1111,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Male,Overall,53.3
+1112,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Female,Overall,118.3
+1113,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Male,Overall,104.4
+1114,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Female,Overall,81.2
+1115,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Male,Overall,98.9
+1116,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Female,Overall,288.5
+1117,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Male,Overall,354
+1118,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Female,Overall,15.8
+1119,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Male,Overall,12
+1120,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Female,Overall,4.2
+1121,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Male,Overall,2.9
+1122,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Female,Overall,6.1
+1123,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Male,Overall,6.4
+1124,Entire Network (RSV-NET),2019-2020,Overall,50-64 years,Female,Overall,14
+1125,Entire Network (RSV-NET),2019-2020,Overall,50-64 years,Male,Overall,13
+1126,Entire Network (RSV-NET),2019-2020,Overall,65+ years,Female,Overall,48.2
+1127,Entire Network (RSV-NET),2019-2020,Overall,65+ years,Male,Overall,41.2
+1128,Entire Network (RSV-NET),2020-2021,Overall,----0-<6 months,Female,Overall,672.7
+1129,Entire Network (RSV-NET),2020-2021,Overall,----0-<6 months,Male,Overall,775.8
+1130,Entire Network (RSV-NET),2020-2021,Overall,----1-<2 years,Female,Overall,194
+1131,Entire Network (RSV-NET),2020-2021,Overall,----1-<2 years,Male,Overall,214.4
+1132,Entire Network (RSV-NET),2020-2021,Overall,----12-17 years,Female,Overall,1.4
+1133,Entire Network (RSV-NET),2020-2021,Overall,----12-17 years,Male,Overall,1.6
+1134,Entire Network (RSV-NET),2020-2021,Overall,----18-29 years,Female,Overall,1.6
+1135,Entire Network (RSV-NET),2020-2021,Overall,----18-29 years,Male,Overall,1
+1136,Entire Network (RSV-NET),2020-2021,Overall,----2-4 years,Female,Overall,54.3
+1137,Entire Network (RSV-NET),2020-2021,Overall,----2-4 years,Male,Overall,72.1
+1138,Entire Network (RSV-NET),2020-2021,Overall,----30-39 years,Female,Overall,2.4
+1139,Entire Network (RSV-NET),2020-2021,Overall,----30-39 years,Male,Overall,0.9
+1140,Entire Network (RSV-NET),2020-2021,Overall,----40-49 years,Female,Overall,1.3
+1141,Entire Network (RSV-NET),2020-2021,Overall,----40-49 years,Male,Overall,1.1
+1142,Entire Network (RSV-NET),2020-2021,Overall,----5-11 years,Female,Overall,4.3
+1143,Entire Network (RSV-NET),2020-2021,Overall,----5-11 years,Male,Overall,3.8
+1144,Entire Network (RSV-NET),2020-2021,Overall,----6-<12 months,Female,Overall,251.4
+1145,Entire Network (RSV-NET),2020-2021,Overall,----6-<12 months,Male,Overall,315.3
+1146,Entire Network (RSV-NET),2020-2021,Overall,----65-74 years,Female,Overall,6.2
+1147,Entire Network (RSV-NET),2020-2021,Overall,----65-74 years,Male,Overall,5.3
+1148,Entire Network (RSV-NET),2020-2021,Overall,----75-84 years,Female,Overall,8.1
+1149,Entire Network (RSV-NET),2020-2021,Overall,----75-84 years,Male,Overall,5.4
+1150,Entire Network (RSV-NET),2020-2021,Overall,----85+ years,Female,Overall,10.2
+1151,Entire Network (RSV-NET),2020-2021,Overall,----85+ years,Male,Overall,12.5
+1152,Entire Network (RSV-NET),2020-2021,Overall,0-17 (Children),Female,Overall,45
+1153,Entire Network (RSV-NET),2020-2021,Overall,0-17 (Children),Male,Overall,53.3
+1154,Entire Network (RSV-NET),2020-2021,Overall,0-4 years,Female,Overall,161.3
+1155,Entire Network (RSV-NET),2020-2021,Overall,0-4 years,Male,Overall,192.8
+1156,Entire Network (RSV-NET),2020-2021,Overall,18+ (Adults),Female,Overall,3.3
+1157,Entire Network (RSV-NET),2020-2021,Overall,18+ (Adults),Male,Overall,2.2
+1158,Entire Network (RSV-NET),2020-2021,Overall,18-49 years,Female,Overall,1.8
+1159,Entire Network (RSV-NET),2020-2021,Overall,18-49 years,Male,Overall,1
+1160,Entire Network (RSV-NET),2020-2021,Overall,5-17 years,Female,Overall,2.9
+1161,Entire Network (RSV-NET),2020-2021,Overall,5-17 years,Male,Overall,2.8
+1162,Entire Network (RSV-NET),2020-2021,Overall,50-64 years,Female,Overall,3.3
+1163,Entire Network (RSV-NET),2020-2021,Overall,50-64 years,Male,Overall,2.3
+1164,Entire Network (RSV-NET),2020-2021,Overall,65+ years,Female,Overall,7.3
+1165,Entire Network (RSV-NET),2020-2021,Overall,65+ years,Male,Overall,6
+1166,Entire Network (RSV-NET),2021-2022,Overall,----0-<6 months,Female,Overall,1130.5
+1167,Entire Network (RSV-NET),2021-2022,Overall,----0-<6 months,Male,Overall,1437.5
+1168,Entire Network (RSV-NET),2021-2022,Overall,----1-<2 years,Female,Overall,300.9
+1169,Entire Network (RSV-NET),2021-2022,Overall,----1-<2 years,Male,Overall,346.1
+1170,Entire Network (RSV-NET),2021-2022,Overall,----12-17 years,Female,Overall,3.2
+1171,Entire Network (RSV-NET),2021-2022,Overall,----12-17 years,Male,Overall,2.9
+1172,Entire Network (RSV-NET),2021-2022,Overall,----18-29 years,Female,Overall,4.7
+1173,Entire Network (RSV-NET),2021-2022,Overall,----18-29 years,Male,Overall,1.9
+1174,Entire Network (RSV-NET),2021-2022,Overall,----2-4 years,Female,Overall,121
+1175,Entire Network (RSV-NET),2021-2022,Overall,----2-4 years,Male,Overall,123.2
+1176,Entire Network (RSV-NET),2021-2022,Overall,----30-39 years,Female,Overall,5.7
+1177,Entire Network (RSV-NET),2021-2022,Overall,----30-39 years,Male,Overall,3.1
+1178,Entire Network (RSV-NET),2021-2022,Overall,----40-49 years,Female,Overall,4.9
+1179,Entire Network (RSV-NET),2021-2022,Overall,----40-49 years,Male,Overall,4
+1180,Entire Network (RSV-NET),2021-2022,Overall,----5-11 years,Female,Overall,13.4
+1181,Entire Network (RSV-NET),2021-2022,Overall,----5-11 years,Male,Overall,15
+1182,Entire Network (RSV-NET),2021-2022,Overall,----6-<12 months,Female,Overall,449.2
+1183,Entire Network (RSV-NET),2021-2022,Overall,----6-<12 months,Male,Overall,582.3
+1184,Entire Network (RSV-NET),2021-2022,Overall,----65-74 years,Female,Overall,21.9
+1185,Entire Network (RSV-NET),2021-2022,Overall,----65-74 years,Male,Overall,18.5
+1186,Entire Network (RSV-NET),2021-2022,Overall,----75-84 years,Female,Overall,46.9
+1187,Entire Network (RSV-NET),2021-2022,Overall,----75-84 years,Male,Overall,38.5
+1188,Entire Network (RSV-NET),2021-2022,Overall,----85+ years,Female,Overall,62.7
+1189,Entire Network (RSV-NET),2021-2022,Overall,----85+ years,Male,Overall,65.7
+1190,Entire Network (RSV-NET),2021-2022,Overall,0-17 (Children),Female,Overall,82.6
+1191,Entire Network (RSV-NET),2021-2022,Overall,0-17 (Children),Male,Overall,97.4
+1192,Entire Network (RSV-NET),2021-2022,Overall,0-4 years,Female,Overall,286.8
+1193,Entire Network (RSV-NET),2021-2022,Overall,0-4 years,Male,Overall,340.6
+1194,Entire Network (RSV-NET),2021-2022,Overall,18+ (Adults),Female,Overall,13
+1195,Entire Network (RSV-NET),2021-2022,Overall,18+ (Adults),Male,Overall,9.1
+1196,Entire Network (RSV-NET),2021-2022,Overall,18-49 years,Female,Overall,5.1
+1197,Entire Network (RSV-NET),2021-2022,Overall,18-49 years,Male,Overall,2.9
+1198,Entire Network (RSV-NET),2021-2022,Overall,5-17 years,Female,Overall,8.6
+1199,Entire Network (RSV-NET),2021-2022,Overall,5-17 years,Male,Overall,9.4
+1200,Entire Network (RSV-NET),2021-2022,Overall,50-64 years,Female,Overall,12.2
+1201,Entire Network (RSV-NET),2021-2022,Overall,50-64 years,Male,Overall,9.9
+1202,Entire Network (RSV-NET),2021-2022,Overall,65+ years,Female,Overall,34.6
+1203,Entire Network (RSV-NET),2021-2022,Overall,65+ years,Male,Overall,28.6
+1204,Entire Network (RSV-NET),2022-2023,Overall,----0-<6 months,Female,Overall,1780.4
+1205,Entire Network (RSV-NET),2022-2023,Overall,----0-<6 months,Male,Overall,2293
+1206,Entire Network (RSV-NET),2022-2023,Overall,----1-<2 years,Female,Overall,517.9
+1207,Entire Network (RSV-NET),2022-2023,Overall,----1-<2 years,Male,Overall,582.1
+1208,Entire Network (RSV-NET),2022-2023,Overall,----12-17 years,Female,Overall,6.8
+1209,Entire Network (RSV-NET),2022-2023,Overall,----12-17 years,Male,Overall,5.7
+1210,Entire Network (RSV-NET),2022-2023,Overall,----18-29 years,Female,Overall,7.2
+1211,Entire Network (RSV-NET),2022-2023,Overall,----18-29 years,Male,Overall,2.1
+1212,Entire Network (RSV-NET),2022-2023,Overall,----2-4 years,Female,Overall,227.5
+1213,Entire Network (RSV-NET),2022-2023,Overall,----2-4 years,Male,Overall,258.3
+1214,Entire Network (RSV-NET),2022-2023,Overall,----30-39 years,Female,Overall,8.9
+1215,Entire Network (RSV-NET),2022-2023,Overall,----30-39 years,Male,Overall,4.2
+1216,Entire Network (RSV-NET),2022-2023,Overall,----40-49 years,Female,Overall,6.5
+1217,Entire Network (RSV-NET),2022-2023,Overall,----40-49 years,Male,Overall,8
+1218,Entire Network (RSV-NET),2022-2023,Overall,----5-11 years,Female,Overall,27.9
+1219,Entire Network (RSV-NET),2022-2023,Overall,----5-11 years,Male,Overall,33.3
+1220,Entire Network (RSV-NET),2022-2023,Overall,----6-<12 months,Female,Overall,761.2
+1221,Entire Network (RSV-NET),2022-2023,Overall,----6-<12 months,Male,Overall,988.4
+1222,Entire Network (RSV-NET),2022-2023,Overall,----65-74 years,Female,Overall,41.3
+1223,Entire Network (RSV-NET),2022-2023,Overall,----65-74 years,Male,Overall,38.6
+1224,Entire Network (RSV-NET),2022-2023,Overall,----75-84 years,Female,Overall,83.2
+1225,Entire Network (RSV-NET),2022-2023,Overall,----75-84 years,Male,Overall,79.9
+1226,Entire Network (RSV-NET),2022-2023,Overall,----85+ years,Female,Overall,141.5
+1227,Entire Network (RSV-NET),2022-2023,Overall,----85+ years,Male,Overall,142.5
+1228,Entire Network (RSV-NET),2022-2023,Overall,0-17 (Children),Female,Overall,142.8
+1229,Entire Network (RSV-NET),2022-2023,Overall,0-17 (Children),Male,Overall,172.5
+1230,Entire Network (RSV-NET),2022-2023,Overall,0-4 years,Female,Overall,488.3
+1231,Entire Network (RSV-NET),2022-2023,Overall,0-4 years,Male,Overall,593
+1232,Entire Network (RSV-NET),2022-2023,Overall,18+ (Adults),Female,Overall,23
+1233,Entire Network (RSV-NET),2022-2023,Overall,18+ (Adults),Male,Overall,16.6
+1234,Entire Network (RSV-NET),2022-2023,Overall,18-49 years,Female,Overall,7.6
+1235,Entire Network (RSV-NET),2022-2023,Overall,18-49 years,Male,Overall,4.5
+1236,Entire Network (RSV-NET),2022-2023,Overall,5-17 years,Female,Overall,18
+1237,Entire Network (RSV-NET),2022-2023,Overall,5-17 years,Male,Overall,20.3
+1238,Entire Network (RSV-NET),2022-2023,Overall,50-64 years,Female,Overall,20.4
+1239,Entire Network (RSV-NET),2022-2023,Overall,50-64 years,Male,Overall,14.9
+1240,Entire Network (RSV-NET),2022-2023,Overall,65+ years,Female,Overall,66.9
+1241,Entire Network (RSV-NET),2022-2023,Overall,65+ years,Male,Overall,59.9
+1242,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0
+1243,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0
+1244,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Female,"Black, non-Hispanic",2.8
+1245,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Female,Hispanic,0.5
+1246,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Female,"White, non-Hispanic",0.5
+1247,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0
+1248,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0
+1249,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Male,"Black, non-Hispanic",1.5
+1250,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Male,Hispanic,0
+1251,Entire Network (RSV-NET),2014-2015,Overall,----18-29 years,Male,"White, non-Hispanic",0.1
+1252,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0.6
+1253,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0
+1254,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Female,"Black, non-Hispanic",0.7
+1255,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Female,Hispanic,0
+1256,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Female,"White, non-Hispanic",0.6
+1257,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0
+1258,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0
+1259,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Male,"Black, non-Hispanic",1.7
+1260,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Male,Hispanic,0
+1261,Entire Network (RSV-NET),2014-2015,Overall,----30-39 years,Male,"White, non-Hispanic",0.6
+1262,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0.6
+1263,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0
+1264,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Female,"Black, non-Hispanic",4.5
+1265,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Female,Hispanic,0.8
+1266,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Female,"White, non-Hispanic",1.6
+1267,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0
+1268,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0
+1269,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Male,"Black, non-Hispanic",5.4
+1270,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Male,Hispanic,0
+1271,Entire Network (RSV-NET),2014-2015,Overall,----40-49 years,Male,"White, non-Hispanic",0.6
+1272,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0
+1273,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0
+1274,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Female,"Black, non-Hispanic",9.2
+1275,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Female,Hispanic,6.4
+1276,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Female,"White, non-Hispanic",6.4
+1277,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0
+1278,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0
+1279,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Male,"Black, non-Hispanic",6.9
+1280,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Male,Hispanic,3.9
+1281,Entire Network (RSV-NET),2014-2015,Overall,----65-74 years,Male,"White, non-Hispanic",7.6
+1282,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Female,"A/PI, non-Hispanic",2.8
+1283,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0
+1284,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Female,"Black, non-Hispanic",17
+1285,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Female,Hispanic,0
+1286,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Female,"White, non-Hispanic",11.8
+1287,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Male,"A/PI, non-Hispanic",3.6
+1288,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0
+1289,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Male,"Black, non-Hispanic",21.8
+1290,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Male,Hispanic,9.5
+1291,Entire Network (RSV-NET),2014-2015,Overall,----75-84 years,Male,"White, non-Hispanic",16.3
+1292,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Female,"A/PI, non-Hispanic",6.1
+1293,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0
+1294,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Female,"Black, non-Hispanic",17.8
+1295,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Female,Hispanic,0
+1296,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Female,"White, non-Hispanic",27.4
+1297,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Male,"A/PI, non-Hispanic",20.6
+1298,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0
+1299,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Male,"Black, non-Hispanic",11.2
+1300,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Male,Hispanic,0
+1301,Entire Network (RSV-NET),2014-2015,Overall,----85+ years,Male,"White, non-Hispanic",13.8
+1302,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Female,"A/PI, non-Hispanic",0.5
+1303,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Female,"AI/AN, non-Hispanic",3.4
+1304,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Female,"Black, non-Hispanic",5.4
+1305,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Female,Hispanic,1.1
+1306,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Female,"White, non-Hispanic",3.9
+1307,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Male,"A/PI, non-Hispanic",0.4
+1308,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Male,"AI/AN, non-Hispanic",0
+1309,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Male,"Black, non-Hispanic",4.6
+1310,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Male,Hispanic,0.7
+1311,Entire Network (RSV-NET),2014-2015,Overall,18+ (Adults),Male,"White, non-Hispanic",2.7
+1312,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Female,"A/PI, non-Hispanic",0.4
+1313,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Female,"AI/AN, non-Hispanic",0
+1314,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Female,"Black, non-Hispanic",2.7
+1315,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Female,Hispanic,0.4
+1316,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Female,"White, non-Hispanic",0.9
+1317,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Male,"A/PI, non-Hispanic",0
+1318,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Male,"AI/AN, non-Hispanic",0
+1319,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Male,"Black, non-Hispanic",2.7
+1320,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Male,Hispanic,0
+1321,Entire Network (RSV-NET),2014-2015,Overall,18-49 years,Male,"White, non-Hispanic",0.4
+1322,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Female,"A/PI, non-Hispanic",0
+1323,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Female,"AI/AN, non-Hispanic",13.2
+1324,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Female,"Black, non-Hispanic",8.7
+1325,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Female,Hispanic,2.7
+1326,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Female,"White, non-Hispanic",3.3
+1327,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Male,"A/PI, non-Hispanic",0
+1328,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Male,"AI/AN, non-Hispanic",0
+1329,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Male,"Black, non-Hispanic",7
+1330,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Male,Hispanic,2.7
+1331,Entire Network (RSV-NET),2014-2015,Overall,50-64 years,Male,"White, non-Hispanic",1.9
+1332,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Female,"A/PI, non-Hispanic",1.7
+1333,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Female,"AI/AN, non-Hispanic",0
+1334,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Female,"Black, non-Hispanic",12.3
+1335,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Female,Hispanic,3.7
+1336,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Female,"White, non-Hispanic",11.4
+1337,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Male,"A/PI, non-Hispanic",3.2
+1338,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Male,"AI/AN, non-Hispanic",0
+1339,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Male,"Black, non-Hispanic",11
+1340,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Male,Hispanic,5
+1341,Entire Network (RSV-NET),2014-2015,Overall,65+ years,Male,"White, non-Hispanic",10.6
+1342,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0
+1343,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0
+1344,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Female,"Black, non-Hispanic",3.6
+1345,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Female,Hispanic,0.5
+1346,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Female,"White, non-Hispanic",1.2
+1347,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0
+1348,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",14
+1349,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Male,"Black, non-Hispanic",1.8
+1350,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Male,Hispanic,1.5
+1351,Entire Network (RSV-NET),2015-2016,Overall,----18-29 years,Male,"White, non-Hispanic",0.8
+1352,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0.5
+1353,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0
+1354,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Female,"Black, non-Hispanic",3.8
+1355,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Female,Hispanic,1.2
+1356,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Female,"White, non-Hispanic",1.8
+1357,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0.6
+1358,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0
+1359,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Male,"Black, non-Hispanic",3.4
+1360,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Male,Hispanic,1.6
+1361,Entire Network (RSV-NET),2015-2016,Overall,----30-39 years,Male,"White, non-Hispanic",0.4
+1362,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0.6
+1363,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0
+1364,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Female,"Black, non-Hispanic",4.9
+1365,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Female,Hispanic,1.5
+1366,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Female,"White, non-Hispanic",2.2
+1367,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0.7
+1368,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0
+1369,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Male,"Black, non-Hispanic",4.5
+1370,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Male,Hispanic,3.4
+1371,Entire Network (RSV-NET),2015-2016,Overall,----40-49 years,Male,"White, non-Hispanic",1
+1372,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Female,"A/PI, non-Hispanic",5.5
+1373,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0
+1374,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Female,"Black, non-Hispanic",15.6
+1375,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Female,Hispanic,24
+1376,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Female,"White, non-Hispanic",11.5
+1377,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Male,"A/PI, non-Hispanic",8.4
+1378,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0
+1379,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Male,"Black, non-Hispanic",10.9
+1380,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Male,Hispanic,14.3
+1381,Entire Network (RSV-NET),2015-2016,Overall,----65-74 years,Male,"White, non-Hispanic",9.4
+1382,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Female,"A/PI, non-Hispanic",10.7
+1383,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",200.2
+1384,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Female,"Black, non-Hispanic",30.7
+1385,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Female,Hispanic,12.5
+1386,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Female,"White, non-Hispanic",23.6
+1387,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Male,"A/PI, non-Hispanic",20.9
+1388,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0
+1389,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Male,"Black, non-Hispanic",11.8
+1390,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Male,Hispanic,18.4
+1391,Entire Network (RSV-NET),2015-2016,Overall,----75-84 years,Male,"White, non-Hispanic",17.8
+1392,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Female,"A/PI, non-Hispanic",40.2
+1393,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0
+1394,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Female,"Black, non-Hispanic",30.3
+1395,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Female,Hispanic,54.4
+1396,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Female,"White, non-Hispanic",46.3
+1397,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Male,"A/PI, non-Hispanic",57.5
+1398,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0
+1399,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Male,"Black, non-Hispanic",21.4
+1400,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Male,Hispanic,24.5
+1401,Entire Network (RSV-NET),2015-2016,Overall,----85+ years,Male,"White, non-Hispanic",45.3
+1402,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Female,"A/PI, non-Hispanic",2.4
+1403,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Female,"AI/AN, non-Hispanic",10.1
+1404,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Female,"Black, non-Hispanic",8.9
+1405,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Female,Hispanic,3.9
+1406,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Female,"White, non-Hispanic",7
+1407,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Male,"A/PI, non-Hispanic",2.7
+1408,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Male,"AI/AN, non-Hispanic",3.7
+1409,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Male,"Black, non-Hispanic",5.6
+1410,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Male,Hispanic,3
+1411,Entire Network (RSV-NET),2015-2016,Overall,18+ (Adults),Male,"White, non-Hispanic",4.2
+1412,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Female,"A/PI, non-Hispanic",0.4
+1413,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Female,"AI/AN, non-Hispanic",0
+1414,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Female,"Black, non-Hispanic",4
+1415,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Female,Hispanic,1
+1416,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Female,"White, non-Hispanic",1.7
+1417,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Male,"A/PI, non-Hispanic",0.4
+1418,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Male,"AI/AN, non-Hispanic",5.8
+1419,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Male,"Black, non-Hispanic",3
+1420,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Male,Hispanic,2
+1421,Entire Network (RSV-NET),2015-2016,Overall,18-49 years,Male,"White, non-Hispanic",0.7
+1422,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Female,"A/PI, non-Hispanic",1.7
+1423,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Female,"AI/AN, non-Hispanic",13.2
+1424,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Female,"Black, non-Hispanic",14.4
+1425,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Female,Hispanic,6.1
+1426,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Female,"White, non-Hispanic",5.4
+1427,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Male,"A/PI, non-Hispanic",0.6
+1428,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Male,"AI/AN, non-Hispanic",0
+1429,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Male,"Black, non-Hispanic",10
+1430,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Male,Hispanic,2.5
+1431,Entire Network (RSV-NET),2015-2016,Overall,50-64 years,Male,"White, non-Hispanic",3.2
+1432,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Female,"A/PI, non-Hispanic",11.7
+1433,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Female,"AI/AN, non-Hispanic",49.2
+1434,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Female,"Black, non-Hispanic",21.3
+1435,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Female,Hispanic,24.7
+1436,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Female,"White, non-Hispanic",20.6
+1437,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Male,"A/PI, non-Hispanic",17.2
+1438,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Male,"AI/AN, non-Hispanic",0
+1439,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Male,"Black, non-Hispanic",11.8
+1440,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Male,Hispanic,16.3
+1441,Entire Network (RSV-NET),2015-2016,Overall,65+ years,Male,"White, non-Hispanic",15.5
+1442,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Female,"A/PI, non-Hispanic",1.6
+1443,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0
+1444,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Female,"Black, non-Hispanic",4.1
+1445,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Female,Hispanic,0
+1446,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Female,"White, non-Hispanic",1.3
+1447,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0
+1448,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0
+1449,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Male,"Black, non-Hispanic",1.7
+1450,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Male,Hispanic,1.7
+1451,Entire Network (RSV-NET),2016-2017,Overall,----18-29 years,Male,"White, non-Hispanic",0.9
+1452,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Female,"A/PI, non-Hispanic",1
+1453,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0
+1454,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Female,"Black, non-Hispanic",3.4
+1455,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Female,Hispanic,1.6
+1456,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Female,"White, non-Hispanic",2.2
+1457,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0
+1458,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0
+1459,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Male,"Black, non-Hispanic",2
+1460,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Male,Hispanic,0.5
+1461,Entire Network (RSV-NET),2016-2017,Overall,----30-39 years,Male,"White, non-Hispanic",1.2
+1462,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0
+1463,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",14
+1464,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Female,"Black, non-Hispanic",3
+1465,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Female,Hispanic,0.6
+1466,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Female,"White, non-Hispanic",1.9
+1467,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Male,"A/PI, non-Hispanic",2.7
+1468,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",15.6
+1469,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Male,"Black, non-Hispanic",3.1
+1470,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Male,Hispanic,1.7
+1471,Entire Network (RSV-NET),2016-2017,Overall,----40-49 years,Male,"White, non-Hispanic",1.7
+1472,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Female,"A/PI, non-Hispanic",20.3
+1473,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0
+1474,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Female,"Black, non-Hispanic",20.5
+1475,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Female,Hispanic,8.4
+1476,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Female,"White, non-Hispanic",13.2
+1477,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Male,"A/PI, non-Hispanic",15.6
+1478,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0
+1479,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Male,"Black, non-Hispanic",13.3
+1480,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Male,Hispanic,15.2
+1481,Entire Network (RSV-NET),2016-2017,Overall,----65-74 years,Male,"White, non-Hispanic",19.3
+1482,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Female,"A/PI, non-Hispanic",38
+1483,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0
+1484,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Female,"Black, non-Hispanic",44.8
+1485,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Female,Hispanic,17.6
+1486,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Female,"White, non-Hispanic",36.5
+1487,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Male,"A/PI, non-Hispanic",39.6
+1488,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0
+1489,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Male,"Black, non-Hispanic",30.5
+1490,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Male,Hispanic,25.7
+1491,Entire Network (RSV-NET),2016-2017,Overall,----75-84 years,Male,"White, non-Hispanic",39.3
+1492,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Female,"A/PI, non-Hispanic",96.4
+1493,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0
+1494,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Female,"Black, non-Hispanic",33.2
+1495,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Female,Hispanic,58.4
+1496,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Female,"White, non-Hispanic",80.9
+1497,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Male,"A/PI, non-Hispanic",124.6
+1498,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0
+1499,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Male,"Black, non-Hispanic",40.5
+1500,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Male,Hispanic,87
+1501,Entire Network (RSV-NET),2016-2017,Overall,----85+ years,Male,"White, non-Hispanic",78.4
+1502,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Female,"A/PI, non-Hispanic",7.4
+1503,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Female,"AI/AN, non-Hispanic",4.7
+1504,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Female,"Black, non-Hispanic",9.9
+1505,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Female,Hispanic,3.2
+1506,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Female,"White, non-Hispanic",10.2
+1507,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Male,"A/PI, non-Hispanic",6.2
+1508,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Male,"AI/AN, non-Hispanic",2.7
+1509,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Male,"Black, non-Hispanic",6.4
+1510,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Male,Hispanic,4.4
+1511,Entire Network (RSV-NET),2016-2017,Overall,18+ (Adults),Male,"White, non-Hispanic",8.6
+1512,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Female,"A/PI, non-Hispanic",0.9
+1513,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Female,"AI/AN, non-Hispanic",3.8
+1514,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Female,"Black, non-Hispanic",3.5
+1515,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Female,Hispanic,0.7
+1516,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Female,"White, non-Hispanic",1.8
+1517,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Male,"A/PI, non-Hispanic",0.8
+1518,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Male,"AI/AN, non-Hispanic",4
+1519,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Male,"Black, non-Hispanic",2.2
+1520,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Male,Hispanic,1.3
+1521,Entire Network (RSV-NET),2016-2017,Overall,18-49 years,Male,"White, non-Hispanic",1.2
+1522,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Female,"A/PI, non-Hispanic",5.9
+1523,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Female,"AI/AN, non-Hispanic",10
+1524,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Female,"Black, non-Hispanic",15
+1525,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Female,Hispanic,5.4
+1526,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Female,"White, non-Hispanic",8.6
+1527,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Male,"A/PI, non-Hispanic",4.9
+1528,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Male,"AI/AN, non-Hispanic",0
+1529,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Male,"Black, non-Hispanic",11.4
+1530,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Male,Hispanic,9.3
+1531,Entire Network (RSV-NET),2016-2017,Overall,50-64 years,Male,"White, non-Hispanic",7.1
+1532,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Female,"A/PI, non-Hispanic",35.8
+1533,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Female,"AI/AN, non-Hispanic",0
+1534,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Female,"Black, non-Hispanic",28.3
+1535,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Female,Hispanic,17.4
+1536,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Female,"White, non-Hispanic",30.4
+1537,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Male,"A/PI, non-Hispanic",34.1
+1538,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Male,"AI/AN, non-Hispanic",0
+1539,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Male,"Black, non-Hispanic",19.5
+1540,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Male,Hispanic,24.6
+1541,Entire Network (RSV-NET),2016-2017,Overall,65+ years,Male,"White, non-Hispanic",30.8
+1542,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0.4
+1543,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0
+1544,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Female,"Black, non-Hispanic",2.8
+1545,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Female,Hispanic,1
+1546,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Female,"White, non-Hispanic",1.4
+1547,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Male,"A/PI, non-Hispanic",1.6
+1548,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0
+1549,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Male,"Black, non-Hispanic",1.2
+1550,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Male,Hispanic,0.5
+1551,Entire Network (RSV-NET),2017-2018,Overall,----18-29 years,Male,"White, non-Hispanic",0.9
+1552,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Female,"A/PI, non-Hispanic",1.2
+1553,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",8.1
+1554,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Female,"Black, non-Hispanic",3.4
+1555,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Female,Hispanic,1.6
+1556,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Female,"White, non-Hispanic",2.1
+1557,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0.4
+1558,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",8.8
+1559,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Male,"Black, non-Hispanic",1.1
+1560,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Male,Hispanic,2.6
+1561,Entire Network (RSV-NET),2017-2018,Overall,----30-39 years,Male,"White, non-Hispanic",0.9
+1562,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0.5
+1563,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",19.5
+1564,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Female,"Black, non-Hispanic",6.1
+1565,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Female,Hispanic,3
+1566,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Female,"White, non-Hispanic",3.9
+1567,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Male,"A/PI, non-Hispanic",2.1
+1568,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",21.9
+1569,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Male,"Black, non-Hispanic",5.7
+1570,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Male,Hispanic,2.4
+1571,Entire Network (RSV-NET),2017-2018,Overall,----40-49 years,Male,"White, non-Hispanic",2.6
+1572,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Female,"A/PI, non-Hispanic",18.1
+1573,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",35.5
+1574,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Female,"Black, non-Hispanic",26.3
+1575,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Female,Hispanic,31.9
+1576,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Female,"White, non-Hispanic",19.5
+1577,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Male,"A/PI, non-Hispanic",16.6
+1578,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",21.9
+1579,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Male,"Black, non-Hispanic",23.1
+1580,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Male,Hispanic,27.9
+1581,Entire Network (RSV-NET),2017-2018,Overall,----65-74 years,Male,"White, non-Hispanic",18.9
+1582,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Female,"A/PI, non-Hispanic",51.1
+1583,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",89.3
+1584,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Female,"Black, non-Hispanic",37.3
+1585,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Female,Hispanic,60.5
+1586,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Female,"White, non-Hispanic",47.3
+1587,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Male,"A/PI, non-Hispanic",70.9
+1588,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",63
+1589,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Male,"Black, non-Hispanic",32.9
+1590,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Male,Hispanic,18.6
+1591,Entire Network (RSV-NET),2017-2018,Overall,----75-84 years,Male,"White, non-Hispanic",36.5
+1592,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Female,"A/PI, non-Hispanic",189.3
+1593,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0
+1594,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Female,"Black, non-Hispanic",62.7
+1595,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Female,Hispanic,115.4
+1596,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Female,"White, non-Hispanic",96.4
+1597,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Male,"A/PI, non-Hispanic",149.9
+1598,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Male,"AI/AN, non-Hispanic",250.6
+1599,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Male,"Black, non-Hispanic",57.5
+1600,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Male,Hispanic,65.4
+1601,Entire Network (RSV-NET),2017-2018,Overall,----85+ years,Male,"White, non-Hispanic",83.5
+1602,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Female,"A/PI, non-Hispanic",9.6
+1603,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Female,"AI/AN, non-Hispanic",19.7
+1604,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Female,"Black, non-Hispanic",12
+1605,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Female,Hispanic,7.8
+1606,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Female,"White, non-Hispanic",13
+1607,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Male,"A/PI, non-Hispanic",8.6
+1608,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Male,"AI/AN, non-Hispanic",16.6
+1609,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Male,"Black, non-Hispanic",8.6
+1610,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Male,Hispanic,5
+1611,Entire Network (RSV-NET),2017-2018,Overall,18+ (Adults),Male,"White, non-Hispanic",9.3
+1612,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Female,"A/PI, non-Hispanic",0.7
+1613,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Female,"AI/AN, non-Hispanic",7.9
+1614,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Female,"Black, non-Hispanic",3.9
+1615,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Female,Hispanic,1.8
+1616,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Female,"White, non-Hispanic",2.4
+1617,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Male,"A/PI, non-Hispanic",1.4
+1618,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Male,"AI/AN, non-Hispanic",8.5
+1619,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Male,"Black, non-Hispanic",2.4
+1620,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Male,Hispanic,1.7
+1621,Entire Network (RSV-NET),2017-2018,Overall,18-49 years,Male,"White, non-Hispanic",1.4
+1622,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Female,"A/PI, non-Hispanic",5.8
+1623,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Female,"AI/AN, non-Hispanic",34.8
+1624,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Female,"Black, non-Hispanic",18.3
+1625,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Female,Hispanic,7.8
+1626,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Female,"White, non-Hispanic",9.2
+1627,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Male,"A/PI, non-Hispanic",6.6
+1628,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Male,"AI/AN, non-Hispanic",24.3
+1629,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Male,"Black, non-Hispanic",15
+1630,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Male,Hispanic,8.6
+1631,Entire Network (RSV-NET),2017-2018,Overall,50-64 years,Male,"White, non-Hispanic",9.2
+1632,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Female,"A/PI, non-Hispanic",50.1
+1633,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Female,"AI/AN, non-Hispanic",45.8
+1634,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Female,"Black, non-Hispanic",33.3
+1635,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Female,Hispanic,50
+1636,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Female,"White, non-Hispanic",39.2
+1637,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Male,"A/PI, non-Hispanic",46.2
+1638,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Male,"AI/AN, non-Hispanic",45.7
+1639,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Male,"Black, non-Hispanic",28
+1640,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Male,Hispanic,28.8
+1641,Entire Network (RSV-NET),2017-2018,Overall,65+ years,Male,"White, non-Hispanic",30.4
+1642,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",817.9
+1643,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",841.2
+1644,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Female,"Black, non-Hispanic",1086.2
+1645,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Female,Hispanic,1026.6
+1646,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Female,"White, non-Hispanic",896.1
+1647,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",1020.5
+1648,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",1414.1
+1649,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Male,"Black, non-Hispanic",1278.2
+1650,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Male,Hispanic,1160.6
+1651,Entire Network (RSV-NET),2018-2019,Overall,----0-<6 months,Male,"White, non-Hispanic",1039
+1652,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",238.3
+1653,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",506.6
+1654,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Female,"Black, non-Hispanic",246.3
+1655,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Female,Hispanic,264
+1656,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Female,"White, non-Hispanic",187.9
+1657,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",301.8
+1658,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",619.8
+1659,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Male,"Black, non-Hispanic",289.8
+1660,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Male,Hispanic,297.5
+1661,Entire Network (RSV-NET),2018-2019,Overall,----1-<2 years,Male,"White, non-Hispanic",208.1
+1662,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Female,"A/PI, non-Hispanic",1
+1663,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0
+1664,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Female,"Black, non-Hispanic",3.9
+1665,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Female,Hispanic,2.3
+1666,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Female,"White, non-Hispanic",1.7
+1667,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Male,"A/PI, non-Hispanic",5
+1668,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0
+1669,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Male,"Black, non-Hispanic",3.4
+1670,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Male,Hispanic,1.8
+1671,Entire Network (RSV-NET),2018-2019,Overall,----12-17 years,Male,"White, non-Hispanic",0.9
+1672,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0
+1673,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0
+1674,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Female,"Black, non-Hispanic",2.8
+1675,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Female,Hispanic,3
+1676,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Female,"White, non-Hispanic",1.4
+1677,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0.4
+1678,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0
+1679,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Male,"Black, non-Hispanic",1.6
+1680,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Male,Hispanic,1.9
+1681,Entire Network (RSV-NET),2018-2019,Overall,----18-29 years,Male,"White, non-Hispanic",1
+1682,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Female,"A/PI, non-Hispanic",73.9
+1683,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",102
+1684,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Female,"Black, non-Hispanic",56.5
+1685,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Female,Hispanic,75.9
+1686,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Female,"White, non-Hispanic",56
+1687,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Male,"A/PI, non-Hispanic",41.8
+1688,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",212.2
+1689,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Male,"Black, non-Hispanic",80.6
+1690,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Male,Hispanic,77.5
+1691,Entire Network (RSV-NET),2018-2019,Overall,----2-4 years,Male,"White, non-Hispanic",64.8
+1692,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0.8
+1693,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",7.9
+1694,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Female,"Black, non-Hispanic",4.8
+1695,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Female,Hispanic,2.6
+1696,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Female,"White, non-Hispanic",1.9
+1697,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Male,"A/PI, non-Hispanic",2.1
+1698,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0
+1699,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Male,"Black, non-Hispanic",4.4
+1700,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Male,Hispanic,2
+1701,Entire Network (RSV-NET),2018-2019,Overall,----30-39 years,Male,"White, non-Hispanic",2.1
+1702,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Female,"A/PI, non-Hispanic",1.4
+1703,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",9.7
+1704,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Female,"Black, non-Hispanic",5.3
+1705,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Female,Hispanic,3.3
+1706,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Female,"White, non-Hispanic",4.4
+1707,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0.5
+1708,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",22
+1709,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Male,"Black, non-Hispanic",7.8
+1710,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Male,Hispanic,3.1
+1711,Entire Network (RSV-NET),2018-2019,Overall,----40-49 years,Male,"White, non-Hispanic",2.3
+1712,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Female,"A/PI, non-Hispanic",9.9
+1713,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",29.3
+1714,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Female,"Black, non-Hispanic",8.6
+1715,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Female,Hispanic,5.5
+1716,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Female,"White, non-Hispanic",6
+1717,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Male,"A/PI, non-Hispanic",4.3
+1718,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",45.7
+1719,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Male,"Black, non-Hispanic",11.3
+1720,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Male,Hispanic,10.1
+1721,Entire Network (RSV-NET),2018-2019,Overall,----5-11 years,Male,"White, non-Hispanic",7.7
+1722,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",318.1
+1723,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",1261.8
+1724,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Female,"Black, non-Hispanic",393.4
+1725,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Female,Hispanic,391.4
+1726,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Female,"White, non-Hispanic",306.1
+1727,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",445.6
+1728,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",202
+1729,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Male,"Black, non-Hispanic",537.3
+1730,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Male,Hispanic,509.8
+1731,Entire Network (RSV-NET),2018-2019,Overall,----6-<12 months,Male,"White, non-Hispanic",378.2
+1732,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Female,"A/PI, non-Hispanic",11.7
+1733,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",51
+1734,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Female,"Black, non-Hispanic",41.5
+1735,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Female,Hispanic,24.3
+1736,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Female,"White, non-Hispanic",20.6
+1737,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Male,"A/PI, non-Hispanic",7.8
+1738,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0
+1739,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Male,"Black, non-Hispanic",25.9
+1740,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Male,Hispanic,17.9
+1741,Entire Network (RSV-NET),2018-2019,Overall,----65-74 years,Male,"White, non-Hispanic",20.5
+1742,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Female,"A/PI, non-Hispanic",43.3
+1743,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0
+1744,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Female,"Black, non-Hispanic",44.8
+1745,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Female,Hispanic,57.6
+1746,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Female,"White, non-Hispanic",43.6
+1747,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Male,"A/PI, non-Hispanic",48.2
+1748,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",60.6
+1749,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Male,"Black, non-Hispanic",41
+1750,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Male,Hispanic,59.7
+1751,Entire Network (RSV-NET),2018-2019,Overall,----75-84 years,Male,"White, non-Hispanic",44.2
+1752,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Female,"A/PI, non-Hispanic",94.9
+1753,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0
+1754,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Female,"Black, non-Hispanic",47.2
+1755,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Female,Hispanic,91.3
+1756,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Female,"White, non-Hispanic",98.7
+1757,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Male,"A/PI, non-Hispanic",44.3
+1758,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0
+1759,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Male,"Black, non-Hispanic",91.3
+1760,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Male,Hispanic,82.7
+1761,Entire Network (RSV-NET),2018-2019,Overall,----85+ years,Male,"White, non-Hispanic",96.9
+1762,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Female,"A/PI, non-Hispanic",54.6
+1763,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Female,"AI/AN, non-Hispanic",115.6
+1764,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Female,"Black, non-Hispanic",63.8
+1765,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Female,Hispanic,68.1
+1766,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Female,"White, non-Hispanic",54.5
+1767,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Male,"A/PI, non-Hispanic",60.4
+1768,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Male,"AI/AN, non-Hispanic",134.6
+1769,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Male,"Black, non-Hispanic",79.9
+1770,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Male,Hispanic,78.8
+1771,Entire Network (RSV-NET),2018-2019,Overall,0-17 (Children),Male,"White, non-Hispanic",63.3
+1772,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Female,"A/PI, non-Hispanic",194.3
+1773,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Female,"AI/AN, non-Hispanic",369
+1774,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Female,"Black, non-Hispanic",223.9
+1775,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Female,Hispanic,238.1
+1776,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Female,"White, non-Hispanic",190.4
+1777,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Male,"A/PI, non-Hispanic",217.4
+1778,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Male,"AI/AN, non-Hispanic",417.9
+1779,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Male,"Black, non-Hispanic",280.1
+1780,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Male,Hispanic,271.2
+1781,Entire Network (RSV-NET),2018-2019,Overall,0-4 years,Male,"White, non-Hispanic",221.4
+1782,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Female,"A/PI, non-Hispanic",6.2
+1783,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Female,"AI/AN, non-Hispanic",14.6
+1784,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Female,"Black, non-Hispanic",13.4
+1785,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Female,Hispanic,9.2
+1786,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Female,"White, non-Hispanic",13.1
+1787,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Male,"A/PI, non-Hispanic",5.4
+1788,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Male,"AI/AN, non-Hispanic",7.3
+1789,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Male,"Black, non-Hispanic",11
+1790,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Male,Hispanic,5.5
+1791,Entire Network (RSV-NET),2018-2019,Overall,18+ (Adults),Male,"White, non-Hispanic",10.4
+1792,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Female,"A/PI, non-Hispanic",0.7
+1793,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Female,"AI/AN, non-Hispanic",5.2
+1794,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Female,"Black, non-Hispanic",4.1
+1795,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Female,Hispanic,3
+1796,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Female,"White, non-Hispanic",2.5
+1797,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Male,"A/PI, non-Hispanic",1
+1798,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Male,"AI/AN, non-Hispanic",5.6
+1799,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Male,"Black, non-Hispanic",4.1
+1800,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Male,Hispanic,2.3
+1801,Entire Network (RSV-NET),2018-2019,Overall,18-49 years,Male,"White, non-Hispanic",1.8
+1802,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Female,"A/PI, non-Hispanic",5.7
+1803,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Female,"AI/AN, non-Hispanic",16.1
+1804,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Female,"Black, non-Hispanic",6.4
+1805,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Female,Hispanic,4
+1806,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Female,"White, non-Hispanic",4
+1807,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Male,"A/PI, non-Hispanic",4.7
+1808,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Male,"AI/AN, non-Hispanic",24.4
+1809,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Male,"Black, non-Hispanic",7.6
+1810,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Male,Hispanic,6.3
+1811,Entire Network (RSV-NET),2018-2019,Overall,5-17 years,Male,"White, non-Hispanic",4.5
+1812,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Female,"A/PI, non-Hispanic",2.8
+1813,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Female,"AI/AN, non-Hispanic",28.1
+1814,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Female,"Black, non-Hispanic",16.6
+1815,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Female,Hispanic,14.7
+1816,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Female,"White, non-Hispanic",9
+1817,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Male,"A/PI, non-Hispanic",6.9
+1818,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Male,"AI/AN, non-Hispanic",8.1
+1819,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Male,"Black, non-Hispanic",16.7
+1820,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Male,Hispanic,6.4
+1821,Entire Network (RSV-NET),2018-2019,Overall,50-64 years,Male,"White, non-Hispanic",8.7
+1822,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Female,"A/PI, non-Hispanic",31.7
+1823,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Female,"AI/AN, non-Hispanic",32.7
+1824,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Female,"Black, non-Hispanic",43
+1825,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Female,Hispanic,41.7
+1826,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Female,"White, non-Hispanic",38.8
+1827,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Male,"A/PI, non-Hispanic",23.2
+1828,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Male,"AI/AN, non-Hispanic",14.5
+1829,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Male,"Black, non-Hispanic",34.3
+1830,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Male,Hispanic,34.2
+1831,Entire Network (RSV-NET),2018-2019,Overall,65+ years,Male,"White, non-Hispanic",34.9
+1832,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",590.4
+1833,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",1627.9
+1834,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Female,"Black, non-Hispanic",1091.1
+1835,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Female,Hispanic,1234.4
+1836,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Female,"White, non-Hispanic",1058.6
+1837,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",854.9
+1838,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",2758.6
+1839,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Male,"Black, non-Hispanic",1580.5
+1840,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Male,Hispanic,1667.4
+1841,Entire Network (RSV-NET),2019-2020,Overall,----0-<6 months,Male,"White, non-Hispanic",1401.5
+1842,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",220.3
+1843,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",586.2
+1844,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Female,"Black, non-Hispanic",282.8
+1845,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Female,Hispanic,307.3
+1846,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Female,"White, non-Hispanic",244.7
+1847,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",312.3
+1848,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",978
+1849,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Male,"Black, non-Hispanic",390.9
+1850,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Male,Hispanic,370.4
+1851,Entire Network (RSV-NET),2019-2020,Overall,----1-<2 years,Male,"White, non-Hispanic",279.4
+1852,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Female,"A/PI, non-Hispanic",1
+1853,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0
+1854,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Female,"Black, non-Hispanic",3
+1855,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Female,Hispanic,1.4
+1856,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Female,"White, non-Hispanic",1.2
+1857,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Male,"A/PI, non-Hispanic",1
+1858,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0
+1859,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Male,"Black, non-Hispanic",2.9
+1860,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Male,Hispanic,3.9
+1861,Entire Network (RSV-NET),2019-2020,Overall,----12-17 years,Male,"White, non-Hispanic",2.2
+1862,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0.4
+1863,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",6.8
+1864,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Female,"Black, non-Hispanic",4.4
+1865,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Female,Hispanic,3.5
+1866,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Female,"White, non-Hispanic",2.8
+1867,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0.4
+1868,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0
+1869,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Male,"Black, non-Hispanic",3.7
+1870,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Male,Hispanic,1.7
+1871,Entire Network (RSV-NET),2019-2020,Overall,----18-29 years,Male,"White, non-Hispanic",0.4
+1872,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Female,"A/PI, non-Hispanic",73
+1873,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",312.4
+1874,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Female,"Black, non-Hispanic",81.3
+1875,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Female,Hispanic,112.4
+1876,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Female,"White, non-Hispanic",82.4
+1877,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Male,"A/PI, non-Hispanic",58.6
+1878,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",364.8
+1879,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Male,"Black, non-Hispanic",97.9
+1880,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Male,Hispanic,122.4
+1881,Entire Network (RSV-NET),2019-2020,Overall,----2-4 years,Male,"White, non-Hispanic",84.2
+1882,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0.4
+1883,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",15.5
+1884,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Female,"Black, non-Hispanic",4.7
+1885,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Female,Hispanic,3.2
+1886,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Female,"White, non-Hispanic",3.6
+1887,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Male,"A/PI, non-Hispanic",2.1
+1888,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0
+1889,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Male,"Black, non-Hispanic",3.2
+1890,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Male,Hispanic,2.1
+1891,Entire Network (RSV-NET),2019-2020,Overall,----30-39 years,Male,"White, non-Hispanic",2.4
+1892,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Female,"A/PI, non-Hispanic",3.6
+1893,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",28.7
+1894,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Female,"Black, non-Hispanic",11.3
+1895,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Female,Hispanic,6.1
+1896,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Female,"White, non-Hispanic",4.2
+1897,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Male,"A/PI, non-Hispanic",3.6
+1898,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0
+1899,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Male,"Black, non-Hispanic",8.7
+1900,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Male,Hispanic,4.3
+1901,Entire Network (RSV-NET),2019-2020,Overall,----40-49 years,Male,"White, non-Hispanic",4.1
+1902,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Female,"A/PI, non-Hispanic",6.8
+1903,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",62.3
+1904,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Female,"Black, non-Hispanic",12
+1905,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Female,Hispanic,12.4
+1906,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Female,"White, non-Hispanic",7.3
+1907,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Male,"A/PI, non-Hispanic",5.7
+1908,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",0
+1909,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Male,"Black, non-Hispanic",8.8
+1910,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Male,Hispanic,14.6
+1911,Entire Network (RSV-NET),2019-2020,Overall,----5-11 years,Male,"White, non-Hispanic",7.3
+1912,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",268.4
+1913,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",930.2
+1914,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Female,"Black, non-Hispanic",445.8
+1915,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Female,Hispanic,468.6
+1916,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Female,"White, non-Hispanic",467.3
+1917,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",357.3
+1918,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",1149.4
+1919,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Male,"Black, non-Hispanic",566.5
+1920,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Male,Hispanic,691.1
+1921,Entire Network (RSV-NET),2019-2020,Overall,----6-<12 months,Male,"White, non-Hispanic",503.4
+1922,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Female,"A/PI, non-Hispanic",17.2
+1923,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",49.2
+1924,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Female,"Black, non-Hispanic",35.7
+1925,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Female,Hispanic,38.4
+1926,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Female,"White, non-Hispanic",24.4
+1927,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Male,"A/PI, non-Hispanic",10.7
+1928,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",59.8
+1929,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Male,"Black, non-Hispanic",33.2
+1930,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Male,Hispanic,27.1
+1931,Entire Network (RSV-NET),2019-2020,Overall,----65-74 years,Male,"White, non-Hispanic",24.6
+1932,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Female,"A/PI, non-Hispanic",41.2
+1933,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",38.2
+1934,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Female,"Black, non-Hispanic",49.8
+1935,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Female,Hispanic,90.7
+1936,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Female,"White, non-Hispanic",54.1
+1937,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Male,"A/PI, non-Hispanic",41.4
+1938,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0
+1939,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Male,"Black, non-Hispanic",39.2
+1940,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Male,Hispanic,56.5
+1941,Entire Network (RSV-NET),2019-2020,Overall,----75-84 years,Male,"White, non-Hispanic",53.8
+1942,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Female,"A/PI, non-Hispanic",78.9
+1943,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0
+1944,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Female,"Black, non-Hispanic",85.8
+1945,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Female,Hispanic,130.6
+1946,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Female,"White, non-Hispanic",124.4
+1947,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Male,"A/PI, non-Hispanic",71.3
+1948,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0
+1949,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Male,"Black, non-Hispanic",40.6
+1950,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Male,Hispanic,149.3
+1951,Entire Network (RSV-NET),2019-2020,Overall,----85+ years,Male,"White, non-Hispanic",108.4
+1952,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Female,"A/PI, non-Hispanic",48.4
+1953,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Female,"AI/AN, non-Hispanic",171.2
+1954,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Female,"Black, non-Hispanic",72.1
+1955,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Female,Hispanic,86.1
+1956,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Female,"White, non-Hispanic",68.8
+1957,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Male,"A/PI, non-Hispanic",59.6
+1958,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Male,"AI/AN, non-Hispanic",213.7
+1959,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Male,"Black, non-Hispanic",94.9
+1960,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Male,Hispanic,110.6
+1961,Entire Network (RSV-NET),2019-2020,Overall,0-17 (Children),Male,"White, non-Hispanic",81.2
+1962,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Female,"A/PI, non-Hispanic",166.6
+1963,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Female,"AI/AN, non-Hispanic",561.5
+1964,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Female,"Black, non-Hispanic",252.1
+1965,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Female,Hispanic,298.2
+1966,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Female,"White, non-Hispanic",248.6
+1967,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Male,"A/PI, non-Hispanic",208
+1968,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Male,"AI/AN, non-Hispanic",818.3
+1969,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Male,"Black, non-Hispanic",342.8
+1970,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Male,Hispanic,383.3
+1971,Entire Network (RSV-NET),2019-2020,Overall,0-4 years,Male,"White, non-Hispanic",294.2
+1972,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Female,"A/PI, non-Hispanic",7.2
+1973,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Female,"AI/AN, non-Hispanic",21
+1974,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Female,"Black, non-Hispanic",17.2
+1975,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Female,Hispanic,12.2
+1976,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Female,"White, non-Hispanic",16.6
+1977,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Male,"A/PI, non-Hispanic",6.6
+1978,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Male,"AI/AN, non-Hispanic",9
+1979,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Male,"Black, non-Hispanic",12.4
+1980,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Male,Hispanic,7.7
+1981,Entire Network (RSV-NET),2019-2020,Overall,18+ (Adults),Male,"White, non-Hispanic",12.9
+1982,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Female,"A/PI, non-Hispanic",1.4
+1983,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Female,"AI/AN, non-Hispanic",15.8
+1984,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Female,"Black, non-Hispanic",6.5
+1985,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Female,Hispanic,4.1
+1986,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Female,"White, non-Hispanic",3.5
+1987,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Male,"A/PI, non-Hispanic",1.9
+1988,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Male,"AI/AN, non-Hispanic",0
+1989,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Male,"Black, non-Hispanic",4.9
+1990,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Male,Hispanic,2.6
+1991,Entire Network (RSV-NET),2019-2020,Overall,18-49 years,Male,"White, non-Hispanic",2.2
+1992,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Female,"A/PI, non-Hispanic",4.2
+1993,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Female,"AI/AN, non-Hispanic",33.1
+1994,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Female,"Black, non-Hispanic",7.8
+1995,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Female,Hispanic,7.2
+1996,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Female,"White, non-Hispanic",4.4
+1997,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Male,"A/PI, non-Hispanic",3.6
+1998,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Male,"AI/AN, non-Hispanic",0
+1999,Entire Network (RSV-NET),2019-2020,Overall,5-17 years,Male,"Black, non-Hispanic",6.1
